@@ -2,22 +2,22 @@
 
 ## Format des épisodes
 
-- Durée obligatoire : entre 1 et 2 minutes maximum.
-- Durée cible habituelle : 60 à 90 secondes.
+- Durée cible : environ 90 secondes.
+- Durée maximale : 2 minutes lorsque l'histoire le justifie.
 - Format vidéo : vertical 9:16.
 - Plateformes visées : TikTok, Instagram Reels et YouTube Shorts.
 
 ## Structure recommandée
 
-Une structure indicative pour un épisode de 60 à 90 secondes :
+Une structure indicative pour un épisode d'environ 90 secondes :
 
 1. **Accroche (0–5 s)** : une situation intrigante, drôle, surprenante ou immédiatement compréhensible.
 2. **Mise en place (5–20 s)** : le contexte et l'objectif du moment.
 3. **Développement (20–55 s)** : les actions, les interactions et la montée des complications.
-4. **Twist ou gag (55–75 s)** : retournement, révélation ou conséquence inattendue.
-5. **Conclusion (75–90 s)** : résolution rapide ou ouverture vers la suite.
+4. **Twist ou révélation (55–75 s)** : retournement, découverte ou conséquence inattendue, lorsque l'histoire s'y prête.
+5. **Fin (75–90 s)** : cliffhanger privilégié, mais la conclusion peut varier selon l'histoire.
 
-Cette structure est indicative et peut être adaptée au rythme de l'histoire.
+Cette structure est indicative et peut être adaptée au rythme de l'histoire. Ne pas allonger artificiellement un épisode pour respecter le minutage.
 
 ## Principes d'écriture
 
@@ -29,13 +29,19 @@ Cette structure est indicative et peut être adaptée au rythme de l'histoire.
 - Préserver la cohérence des personnages et des règles de l'univers.
 - Les personnages secondaires apparaissent uniquement lorsqu'ils apportent quelque chose à l'épisode.
 
-## Genres
+## Genres et tonalité
 
-Les épisodes peuvent varier : comédie, aventure, business, lifestyle, drame, mystère, amitié ou relations. La variété des situations ne doit pas faire perdre à la série son identité centrée sur les quatre amis.
+Les épisodes peuvent varier : comédie, aventure, business, lifestyle, drame, mystère, amitié ou relations. La tonalité, le niveau d'humour, le rythme et l'intensité dramatique s'adaptent à chaque épisode. Aucun registre humoristique unique n'est imposé à toute la série.
 
-## Continuité
+La variété des situations ne doit pas faire perdre à la série son identité centrée sur les quatre amis.
 
-Les événements, les décisions et les évolutions importantes doivent rester cohérents d'un épisode à l'autre. Les éléments encore à valider ne doivent pas être considérés comme des faits établis.
+## Continuité et format des histoires
+
+- Le format de la série est **hybride** : la plupart des épisodes peuvent être regardés indépendamment, tandis que certaines intrigues peuvent se prolonger sur plusieurs épisodes.
+- Une aventure peut être résolue en un épisode ou nécessiter plusieurs épisodes selon sa complexité.
+- Les cliffhangers peuvent servir à relier plusieurs épisodes, mais toutes les fins ne doivent pas obligatoirement annoncer une suite.
+- Les événements, les décisions et les évolutions importantes doivent rester cohérents d'un épisode à l'autre.
+- Les éléments encore à valider ne doivent pas être considérés comme des faits établis.
 
 ## Idées non validées
 
