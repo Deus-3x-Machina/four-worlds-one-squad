@@ -39,6 +39,8 @@ La variété des situations ne doit pas faire perdre à la série son identité 
 
 - Le format de la série est **hybride** : la plupart des épisodes peuvent être regardés indépendamment, tandis que certaines intrigues peuvent se prolonger sur plusieurs épisodes.
 - Une aventure peut être résolue en un épisode ou nécessiter plusieurs épisodes selon sa complexité.
+- Les intrigues qui s'étendent sur plusieurs épisodes sont **planifiées à l'avance** : leur point de départ, leurs grandes étapes, leurs rebondissements majeurs et leur résolution sont définis avant la production.
+- Les arcs narratifs doivent conserver une cohérence d'un épisode à l'autre, tout en laissant de la place aux ajustements d'écriture nécessaires.
 - Les cliffhangers peuvent servir à relier plusieurs épisodes, mais toutes les fins ne doivent pas obligatoirement annoncer une suite.
 - Les événements, les décisions et les évolutions importantes doivent rester cohérents d'un épisode à l'autre.
 - Les éléments encore à valider ne doivent pas être considérés comme des faits établis.
