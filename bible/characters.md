@@ -21,7 +21,7 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Nationalité : chinoise.
 - Âge : 10 ans.
 - Rôle : hacker et spécialiste de la technologie.
-- Traits dominants : intelligent, discret, curieux, parfois sarcastique.
+- Traits dominants : intelligent, discret, curieux et sarcastique.
 - Compétences : programmation, cybersécurité, intelligence artificielle et résolution de problèmes techniques.
 
 ## Mathis
