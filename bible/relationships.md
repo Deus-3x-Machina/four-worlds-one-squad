@@ -27,6 +27,14 @@ Dans les faits, Dylan prend souvent les devants. C'est un stratège qui anticipe
 
 Les autres peuvent le suivre parce que ses idées semblent bien pensées, sans que cela fasse de lui leur chef attitré. La dynamique reste celle de quatre amis, chacun avec sa personnalité, ses intérêts et sa liberté de décision.
 
+### La manière dont Dylan partage ses plans
+
+Dylan donne généralement aux autres suffisamment d'informations pour qu'ils puissent participer à ses projets, mais il ne leur révèle pas toujours tous les détails. Il garde parfois certaines cartes en main, soit parce qu'elles font partie de sa stratégie, soit parce qu'il préfère conserver une longueur d'avance.
+
+Lorsque la situation se complique ou que le déroulement ne correspond plus à ce qu'il avait prévu, Dylan ne perd pas nécessairement ses moyens : il improvise, adapte sa stratégie ou dévoile et exécute la suite de son plan au moment opportun.
+
+Cette façon de faire entretient le suspense et peut surprendre ses amis, qui découvrent parfois après coup qu'il avait anticipé certains événements ou qu'il leur avait volontairement caché une partie du plan.
+
 ## Relations entre les personnages
 
 ### Dylan et Li Wei
