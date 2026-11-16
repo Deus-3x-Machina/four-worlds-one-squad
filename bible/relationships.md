@@ -53,6 +53,12 @@ Mais Li Wei sait que Mathis est un élément précieux de leurs combines et de l
 
 Mathis lui permet aussi de sortir de sa routine très cérébrale, de s'amuser et de décompresser. Malgré leurs différences, leur complicité est réelle : Li Wei râle souvent après Mathis, mais aime bien sa présence.
 
+### Li Wei et Zayd
+
+Li Wei se préoccupe assez peu du côté flambeur, naïf et dépensier de Zayd. Il ne cherche pas spécialement à le raisonner ni à commenter sa façon de dépenser l'argent de son père.
+
+Si Zayd veut financer une sortie ou mettre des moyens à disposition du groupe, Li Wei ne va pas s'en plaindre. Il reste plutôt détaché de cette question et se concentre sur ce qui l'intéresse davantage.
+
 ### Zayd et le groupe
 
 Zayd est le grand financeur des aventures et des combines du groupe. Il utilise généreusement l'argent de son père pour mettre à leur disposition des moyens que les autres n'auraient pas : voitures de luxe, appartements et autres ressources haut de gamme.
