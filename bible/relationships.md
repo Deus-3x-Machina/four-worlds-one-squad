@@ -19,6 +19,14 @@ Leur relation comprend :
 
 Ils peuvent se critiquer ou se mettre mutuellement dans des situations compliquées, mais leur amitié reste fondamentale.
 
+### Leadership et prise de décision
+
+Le groupe n'a pas de chef officiel : aucun des quatre ne détient une autorité permanente sur les autres.
+
+Dans les faits, Dylan prend souvent les devants. C'est un stratège qui anticipe les événements et a généralement plusieurs coups d'avance. Il repère les opportunités, construit des plans et oriente naturellement le groupe lorsqu'une situation se présente.
+
+Les autres peuvent le suivre parce que ses idées semblent bien pensées, sans que cela fasse de lui leur chef attitré. La dynamique reste celle de quatre amis, chacun avec sa personnalité, ses intérêts et sa liberté de décision.
+
 ## Relations entre les personnages
 
 ### Dylan et Li Wei
