@@ -55,6 +55,12 @@ En revanche, dès qu'il se sent en danger ou que la situation devient trop risqu
 
 Ce contraste est une source de comédie : Zayd est enthousiaste tant que l'aventure est amusante et confortable, mais il peut rapidement changer de priorité lorsque le danger devient réel. Cela ne signifie pas qu'il n'aime pas ses amis ; son instinct de protection personnelle et son habitude de pouvoir payer pour trouver une issue prennent simplement le dessus.
 
+### Zayd et Mathis
+
+Mathis profite souvent de la grande générosité de Zayd : il bénéficie de ses achats, de ses cadeaux, de ses invitations et des sorties qu'il finance. Mais Mathis ne s'en rend absolument pas compte. Pour lui, cette générosité fait tellement partie du quotidien avec Zayd qu'il ne réalise pas à quel point il en profite.
+
+Zayd, de son côté, a tellement d'argent qu'il ne se préoccupe pas de ces dépenses. Il ne tient pas les comptes et ne semble pas attendre de contrepartie. Cette dynamique ne crée donc pas de véritable méfiance entre eux : elle fait partie de leur complicité et peut alimenter des situations comiques.
+
 ## Équilibre des personnages
 
 Leurs personnalités et leurs façons de voir le monde doivent créer naturellement des situations :
