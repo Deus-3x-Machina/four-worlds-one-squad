@@ -19,6 +19,8 @@ Leur relation comprend :
 
 Ils peuvent se critiquer ou se mettre mutuellement dans des situations compliquées, mais leur amitié reste fondamentale.
 
+Malgré leurs personnalités très différentes, leurs ambitions individuelles et les manipulations de Dylan, ils restent soudés. Ils forment avant tout une véritable bande d'amis : leurs désaccords, leurs chamailleries et les coups qu'ils peuvent se faire ne remettent pas en cause leur loyauté les uns envers les autres. Ils continuent à avancer ensemble et à se soutenir quand cela compte.
+
 ### Leadership et prise de décision
 
 Le groupe n'a pas de chef officiel : aucun des quatre ne détient une autorité permanente sur les autres.
