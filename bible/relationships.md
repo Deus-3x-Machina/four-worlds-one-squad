@@ -19,6 +19,16 @@ Leur relation comprend :
 
 Ils peuvent se critiquer ou se mettre mutuellement dans des situations compliquées, mais leur amitié reste fondamentale.
 
+## Relations entre les personnages
+
+### Dylan et Li Wei
+
+Ils sont partenaires dans les combines de Dylan.
+
+Dylan imagine les plans, repère les opportunités et cherche à convaincre les autres. Li Wei est son partenaire technologique et l'aide à donner corps à ses idées grâce à ses compétences de hacker et de spécialiste de la technologie.
+
+Leur duo associe l'ambition et le sens de la manipulation de Dylan à l'intelligence technique et au sarcasme de Li Wei.
+
 ## Équilibre des personnages
 
 Leurs personnalités et leurs façons de voir le monde doivent créer naturellement des situations :
