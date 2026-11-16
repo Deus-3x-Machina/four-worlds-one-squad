@@ -45,13 +45,23 @@ Mais Li Wei sait que Mathis est un élément précieux de leurs combines et de l
 
 Mathis lui permet aussi de sortir de sa routine très cérébrale, de s'amuser et de décompresser. Malgré leurs différences, leur complicité est réelle : Li Wei râle souvent après Mathis, mais aime bien sa présence.
 
+### Zayd et le groupe
+
+Zayd est le grand financeur des aventures et des combines du groupe. Il utilise généreusement l'argent de son père pour mettre à leur disposition des moyens que les autres n'auraient pas : voitures de luxe, appartements et autres ressources haut de gamme.
+
+Il ne participe pas principalement pour faire des affaires ou gagner de l'argent : il vient surtout pour s'amuser et profiter de l'aventure avec ses amis.
+
+En revanche, dès qu'il se sent en danger ou que la situation devient trop risquée, son réflexe est de se mettre à l'abri grâce aux ressources et à l'influence de son père. Il peut alors mobiliser de l'argent, un véhicule ou un hébergement sécurisé pour quitter les lieux et échapper aux ennuis.
+
+Ce contraste est une source de comédie : Zayd est enthousiaste tant que l'aventure est amusante et confortable, mais il peut rapidement changer de priorité lorsque le danger devient réel. Cela ne signifie pas qu'il n'aime pas ses amis ; son instinct de protection personnelle et son habitude de pouvoir payer pour trouver une issue prennent simplement le dessus.
+
 ## Équilibre des personnages
 
 Leurs personnalités et leurs façons de voir le monde doivent créer naturellement des situations :
 - Dylan pense opportunités, projets et argent.
 - Li Wei aborde les problèmes par la logique et la technologie.
 - Mathis improvise, change de plan et provoque souvent des rebondissements.
-- Zayd apporte le point de vue d'un héritier habitué au confort et aux ressources de sa famille.
+- Zayd apporte les ressources financières et matérielles, mais cherche avant tout à profiter de l'aventure sans se mettre en danger.
 
 Ces tendances sont des points de départ, pas des limites : chacun doit pouvoir surprendre les autres.
 
