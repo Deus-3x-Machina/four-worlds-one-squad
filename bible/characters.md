@@ -8,7 +8,10 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Âge : 11 ans.
 - Rôle : entrepreneur.
 - Traits dominants : visionnaire, ambitieux, malin, très débrouillard et prêt à prendre des risques.
-- Trait de caractère supplémentaire : manipulateur. Il sait jouer avec les mots, influencer les décisions, négocier et parfois instrumentaliser les autres pour parvenir à ses fins.
+- Trait de caractère supplémentaire : manipulateur, avec trois facettes complémentaires :
+  - **Le stratège** : prépare ses plans, anticipe les réactions et garde souvent plusieurs coups d'avance.
+  - **Le beau parleur** : sait convaincre, négocier, enjoliver la vérité et retourner une situation à son avantage.
+  - **Le marionnettiste** : pousse subtilement les autres à prendre les décisions qu'il souhaite, parfois sans qu'ils s'en rendent compte.
 - Fonction dans le groupe : repère constamment des opportunités et cherche à lancer des projets ou à construire un empire entrepreneurial.
 - Nuance importante : sa tendance à manipuler ne signifie pas qu'il est dépourvu d'affection ou de loyauté. Il peut sincèrement tenir à ses amis tout en essayant de les embarquer dans ses plans, parfois sans leur dire toute la vérité.
 - Potentiel narratif : ses plans peuvent être brillants, mais son besoin de contrôler les situations peut provoquer des conflits, des retournements et des situations comiques.
