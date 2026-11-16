@@ -29,6 +29,14 @@ Dylan imagine les plans, repère les opportunités et cherche à convaincre les 
 
 Leur duo associe l'ambition et le sens de la manipulation de Dylan à l'intelligence technique et au sarcasme de Li Wei.
 
+### Dylan et Mathis
+
+Dylan est le cerveau : il imagine les combines et orchestre les opérations, mais préfère éviter de s'exposer directement lorsque les choses deviennent risquées ou délicates.
+
+Il embarque donc régulièrement Mathis sur le terrain pour exécuter ses plans, prendre contact avec les personnes concernées ou gérer les situations concrètes. Mathis devient ainsi le visage visible et parfois le bouc émissaire des combines imaginées par Dylan.
+
+Le contraste entre le stratège qui tire les ficelles à distance et le clown qui se retrouve au cœur de l'action est une source naturelle de comédie. Mathis peut suivre le plan sans en mesurer toutes les conséquences, improviser, faire dérailler l'opération ou retourner la situation à sa manière.
+
 ## Équilibre des personnages
 
 Leurs personnalités et leurs façons de voir le monde doivent créer naturellement des situations :
