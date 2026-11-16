@@ -37,6 +37,14 @@ Il embarque donc régulièrement Mathis sur le terrain pour exécuter ses plans,
 
 Le contraste entre le stratège qui tire les ficelles à distance et le clown qui se retrouve au cœur de l'action est une source naturelle de comédie. Mathis peut suivre le plan sans en mesurer toutes les conséquences, improviser, faire dérailler l'opération ou retourner la situation à sa manière.
 
+### Dylan et Zayd
+
+Zayd est particulièrement facile à convaincre pour Dylan. Celui-ci sait lui raconter les histoires qu'il faut, enjoliver une opportunité ou lui présenter un projet comme une aventure irrésistible.
+
+Zayd finit presque toujours par se laisser embarquer et par financer le projet avec l'argent de son père, sans vraiment comprendre ce dans quoi il s'engage. Il suit Dylan avec confiance, sans prendre le temps de saisir tous les détails.
+
+Dylan exploite ainsi la naïveté de Zayd et sa générosité pour faire avancer ses idées. Cette dynamique est une source récurrente de comédie : Dylan déroule son discours avec assurance, tandis que Zayd accepte avec enthousiasme alors qu'il n'a pas réellement compris le plan.
+
 ### Li Wei et Mathis
 
 Li Wei trouve souvent Mathis fatigant, voire exaspérant. Il le considère comme beaucoup moins réfléchi que lui et perd parfois patience face à ses blagues, ses improvisations et ses raisonnements.
