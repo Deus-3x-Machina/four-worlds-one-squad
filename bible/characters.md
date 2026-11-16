@@ -39,7 +39,11 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Âge : 11 ans.
 - Rôle : héritier.
 - Famille : son père est un magnat émirati du pétrole.
-- Mode de vie : profite de la richesse familiale et ne travaille pas comme activité principale. Il peut parfois être impliqué dans les affaires de son père.
+- Traits dominants : gâté, généreux, flambeur et naïf.
+- Mode de vie : profite de la richesse familiale et ne travaille pas comme activité principale. Il aime le luxe et impressionner, mais partage volontiers avec ses amis et aime leur faire plaisir.
+- Particularité comique : il est tellement habitué à l'argent et au confort qu'il ne comprend pas toujours les contraintes financières des autres ni la valeur réelle des choses. Il peut penser qu'il suffit de payer pour régler n'importe quel problème.
+- Nuance : malgré son côté privilégié et parfois déconnecté, il est généreux et attaché à ses amis. Sa naïveté n'en fait pas quelqu'un de stupide.
+- Il peut parfois être impliqué dans les affaires de son père.
 - Important : Zayd est saoudien ; son père est émirati.
 
 ## Noms de famille — à valider
