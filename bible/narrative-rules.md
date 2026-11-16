@@ -38,6 +38,13 @@ Cette structure est indicative et peut être adaptée au rythme de l'histoire. N
 - Les épisodes peuvent mettre en valeur différentes relations et dynamiques entre les personnages.
 - Même lorsque l'attention est concentrée sur certains d'entre eux, l'identité collective du groupe et leur cohésion restent intactes.
 
+## Personnages secondaires
+
+- Les personnages secondaires sont introduits en fonction des besoins de chaque histoire.
+- Ils peuvent être ponctuels ou récurrents : parents, amis, petites amies, rivaux, clients, employés ou autres personnages utiles à l'intrigue.
+- Leur présence doit servir l'histoire, les protagonistes ou l'univers, et non remplir artificiellement l'épisode.
+- Ils ne doivent pas détourner durablement l'attention des quatre héros, qui restent au centre de la série.
+
 ## Genres et tonalité
 
 Les épisodes peuvent varier : comédie, aventure, business, lifestyle, drame, mystère, amitié ou relations. La tonalité, le niveau d'humour, le rythme et l'intensité dramatique s'adaptent à chaque épisode. Aucun registre humoristique unique n'est imposé à toute la série.
