@@ -27,7 +27,9 @@ Ils sont partenaires dans les combines de Dylan.
 
 Dylan imagine les plans, repère les opportunités et cherche à convaincre les autres. Li Wei est son partenaire technologique et l'aide à donner corps à ses idées grâce à ses compétences de hacker et de spécialiste de la technologie.
 
-Leur duo associe l'ambition et le sens de la manipulation de Dylan à l'intelligence technique et au sarcasme de Li Wei.
+Li Wei sait parfaitement que Dylan manipule le groupe et qu'il raconte parfois des histoires aux autres pour les entraîner dans ses projets. Mais cela ne le dérange pas particulièrement. Li Wei a ses propres ambitions : son objectif ultime est de dominer le monde grâce à la technologie. À ses yeux, les combines de Dylan et les aventures du groupe ne sont qu'une étape sur le chemin de cette ambition.
+
+Leur duo associe donc l'ambition et le sens de la manipulation de Dylan à l'intelligence technique et à la vision démesurée de Li Wei. Ils avancent ensemble, même si leurs motivations profondes ne sont pas exactement les mêmes.
 
 ### Dylan et Mathis
 
@@ -79,7 +81,7 @@ Zayd, de son côté, a tellement d'argent qu'il ne se préoccupe pas de ces dép
 
 Leurs personnalités et leurs façons de voir le monde doivent créer naturellement des situations :
 - Dylan pense opportunités, projets et argent.
-- Li Wei aborde les problèmes par la logique et la technologie.
+- Li Wei aborde les problèmes par la logique et la technologie, avec une ambition démesurée de domination mondiale.
 - Mathis improvise, change de plan et provoque souvent des rebondissements.
 - Zayd apporte les ressources financières et matérielles, mais cherche avant tout à profiter de l'aventure sans se mettre en danger.
 
