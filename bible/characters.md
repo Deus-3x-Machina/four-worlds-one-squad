@@ -16,6 +16,20 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Nuance importante : sa tendance à manipuler ne signifie pas qu'il est dépourvu d'affection ou de loyauté. Il peut sincèrement tenir à ses amis tout en essayant de les embarquer dans ses plans, parfois sans leur dire toute la vérité.
 - Potentiel narratif : ses plans peuvent être brillants, mais son besoin de contrôler les situations peut provoquer des conflits, des retournements et des situations comiques.
 
+### Apparence visuelle validée
+
+- Taille : 1,55 m.
+- Morphologie : athlétique.
+- Carnation : brun clair.
+- Visage : légèrement carré, avec des traits affirmés mais juvéniles.
+- Yeux : marron.
+- Regard / expression naturelle : intelligent et observateur ; il semble analyser ce qui se passe autour de lui.
+- Cheveux : locks courtes, soignées.
+- Accessoire distinctif : lunettes à monture transparente.
+- Vêtements : simples, sans marques apparentes. Il ne cherche pas à afficher son statut ou sa richesse par ses vêtements.
+- Direction visuelle : enfant réaliste de 11 ans, allure discrète et naturelle. Le contraste entre son apparence simple et son ambition/manipulation est volontaire.
+- **Référence visuelle approuvée par l'utilisateur** : première fiche de personnage photoréaliste générée pendant la création de Dylan. Cette apparence sert de base de cohérence pour les futures images et vidéos ; ne pas la remplacer sans validation.
+
 ## Li Wei
 
 - Nationalité : chinoise.
@@ -56,8 +70,8 @@ Les propositions suivantes ont été évoquées mais ne sont pas encore confirm�
 
 ## À définir ultérieurement
 
-- Apparence physique précise de chaque personnage.
-- Coiffures, silhouettes, vêtements et accessoires récurrents.
+- Apparence physique précise de Li Wei, Mathis et Zayd.
+- Coiffures, silhouettes, vêtements et accessoires récurrents des trois autres personnages.
 - Voix, accents et expressions caractéristiques.
 - Forces, défauts, peurs, ambitions et contradictions plus détaillés.
 - Histoire familiale et personnages secondaires récurrents.
