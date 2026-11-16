@@ -29,6 +29,15 @@ Cette structure est indicative et peut être adaptée au rythme de l'histoire. N
 - Préserver la cohérence des personnages et des règles de l'univers.
 - Les personnages secondaires apparaissent uniquement lorsqu'ils apportent quelque chose à l'épisode.
 
+## Place des quatre protagonistes
+
+- La place de Dylan, Li Wei, Mathis et Zayd varie selon les besoins de chaque épisode.
+- Les quatre restent les protagonistes centraux de la série, mais ils ne doivent pas nécessairement être tous au premier plan dans chaque histoire.
+- Un épisode peut se concentrer sur un personnage, sur un duo ou sur une partie du groupe, si cela sert naturellement l'intrigue.
+- Les autres protagonistes peuvent avoir un rôle plus discret ou secondaire, sans être intégrés artificiellement.
+- Les épisodes peuvent mettre en valeur différentes relations et dynamiques entre les personnages.
+- Même lorsque l'attention est concentrée sur certains d'entre eux, l'identité collective du groupe et leur cohésion restent intactes.
+
 ## Genres et tonalité
 
 Les épisodes peuvent varier : comédie, aventure, business, lifestyle, drame, mystère, amitié ou relations. La tonalité, le niveau d'humour, le rythme et l'intensité dramatique s'adaptent à chaque épisode. Aucun registre humoristique unique n'est imposé à toute la série.
