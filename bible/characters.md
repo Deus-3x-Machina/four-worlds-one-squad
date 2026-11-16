@@ -29,8 +29,8 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Nationalité : française.
 - Âge : 12 ans.
 - Rôle : activité ou métier différent selon les périodes et les épisodes.
-- Traits dominants : impulsif, imprévisible, capable de se réinventer constamment.
-- Fonction dans le groupe : peut devenir rappeur, salarié, livreur, agent immobilier ou se retrouver sans emploi. Le comique vient de ses changements de cap et des conséquences de ses décisions.
+- Traits dominants : clown du groupe, drôle et imprévisible ; il aime faire rire les autres, y compris dans les situations les plus inappropriées.
+- Fonction dans le groupe : apporte une grande partie de l'humour et détend l'atmosphère, mais ses blagues et ses initiatives peuvent aussi compliquer les situations. Il peut devenir rappeur, salarié, livreur, agent immobilier ou se retrouver sans emploi. Le comique vient aussi de ses changements de cap et des conséquences de ses décisions.
 - Important : Mathis n'a pas de profession stable et ne doit pas être défini comme un PDG permanent.
 
 ## Zayd
