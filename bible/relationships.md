@@ -37,6 +37,14 @@ Il embarque donc régulièrement Mathis sur le terrain pour exécuter ses plans,
 
 Le contraste entre le stratège qui tire les ficelles à distance et le clown qui se retrouve au cœur de l'action est une source naturelle de comédie. Mathis peut suivre le plan sans en mesurer toutes les conséquences, improviser, faire dérailler l'opération ou retourner la situation à sa manière.
 
+### Li Wei et Mathis
+
+Li Wei trouve souvent Mathis fatigant, voire exaspérant. Il le considère comme beaucoup moins réfléchi que lui et perd parfois patience face à ses blagues, ses improvisations et ses raisonnements.
+
+Mais Li Wei sait que Mathis est un élément précieux de leurs combines et de leurs opérations sur le terrain. Au-delà de son utilité, il l'apprécie sincèrement.
+
+Mathis lui permet aussi de sortir de sa routine très cérébrale, de s'amuser et de décompresser. Malgré leurs différences, leur complicité est réelle : Li Wei râle souvent après Mathis, mais aime bien sa présence.
+
 ## Équilibre des personnages
 
 Leurs personnalités et leurs façons de voir le monde doivent créer naturellement des situations :
