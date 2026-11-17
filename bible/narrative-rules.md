@@ -32,6 +32,12 @@ Chaque frame commence par ces quatre champs, dans cet ordre exact :
 
 Ces quatre champs doivent apparaître avant tout prompt complémentaire ou note technique.
 
+### Références des lieux et objets
+- Le registre central des assets visuels est `bible/locations-and-props.md`.
+- Tout lieu ou objet enregistré, visible et important dans une frame ou un shot doit être mentionné dans son champ **References** sous son nom exact.
+- La limite de trois références reste absolue. Prioriser les assets visuellement déterminants ; décrire les autres personnages ou éléments depuis leur fiche canonique.
+- Les références d'un asset ne sont utilisables comme références Flow qu'après sa création et sa validation dans Flow. Le registre décrit les assets à générer et ne prétend pas qu'ils existent déjà.
+
 ### Techniques de film
 - Source officielle : https://github.com/GTAI-1/flow-mcp/blob/b64538ae8ab8d8dc1be07b7a8990554957d365bb/src/techniques.ts
 - Choisir une technique compatible avec la séquence et les images de début/fin.
