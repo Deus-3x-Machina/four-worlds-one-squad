@@ -117,6 +117,71 @@ Cette description est la base de référence choisie pour créer Mathis dans Flo
 
 Cette description est la proposition visuelle retenue pour créer Zayd dans Flow, à la demande de l'utilisateur qui a délégué les choix de design restants. La fiche visuelle Flow reste à générer et à valider.
 
+
+## Tony et son clan
+
+Tony et ses trois hommes de main forment le groupe antagoniste de la saison 1. Tous les quatre sont des enfants, conformément aux règles de l'univers : aucun personnage adulte n'existe dans la série.
+
+### Tony — le cerveau du clan
+
+- Âge : 11 ans (choix de conception pour la saison 1).
+- Rôle : chef du clan et seul véritable stratège.
+- Passé : ancien membre de la bande de Dylan, Li, Mathis et Zayd. Tony et Dylan étaient les deux cerveaux du groupe avant que leur rivalité ne détruise leur amitié.
+- Motivation : prouver qu'il est meilleur que Dylan. Il a volé toute la Plata pour lancer ce défi.
+- Personnalité utile à l'histoire : calculateur, compétitif, sûr de son intelligence et manipulateur. Il sait obtenir de ses trois hommes de main ce qu'il veut en jouant sur leurs réactions et leur loyauté. Il les utilise pour servir ses ambitions et ne leur révèle pas nécessairement tous ses plans.
+- Fonction : Tony conçoit les coups et donne les directives ; ses trois hommes de main assurent l'intimidation et l'exécution sur le terrain.
+
+**Design visuel de référence — choix de conception :**
+- Silhouette fine et nerveuse, posture droite et contrôlée.
+- Peau mate, visage fin, pommettes légèrement marquées.
+- Cheveux noirs très foncés, courts sur les côtés et coiffés vers l'arrière sur le dessus.
+- Yeux brun foncé ; regard froid, attentif et souvent légèrement moqueur.
+- Vêtement signature : bomber noir ajusté, t-shirt bordeaux sombre, pantalon cargo noir et sneakers noires propres.
+- Accessoire distinctif : petite boucle d'oreille argentée à une oreille et montre noire discrète.
+- Palette dominante : noir, bordeaux et argent.
+- Expression habituelle : demi-sourire calme, comme s'il avait déjà anticipé la suite.
+- Ne pas le représenter comme un adulte miniature : visage, taille et proportions doivent rester clairement ceux d'un garçon de 11 ans.
+
+### Les trois hommes de main
+
+Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à développer. Leur priorité actuelle est d'être immédiatement reconnaissables à l'image, y compris dans des plans rapides ou des scènes de groupe. Ils sont tous des garçons/enfants, jamais des adultes.
+
+#### 1. Le colosse
+
+- Le plus grand et le plus large des trois, avec une carrure robuste mais crédible pour un enfant.
+- Peau foncée, visage large, sourcils épais.
+- Cheveux noirs très courts.
+- Vêtement signature : hoodie sans manches orange brûlé sur un t-shirt noir, pantalon cargo gris anthracite et grosses sneakers noires.
+- Palette dominante : orange brûlé, noir et gris.
+- Attitude visuelle : épaules larges, bras croisés ou mains dans les poches ; il prend naturellement beaucoup de place dans le cadre.
+
+#### 2. Le nerveux
+
+- Plus petit et plus sec que le colosse, silhouette compacte et très mobile.
+- Peau claire, cheveux châtains en bataille, yeux noisette.
+- Vêtement signature : veste de survêtement rouge vif, t-shirt blanc, pantalon noir fuselé et sneakers rouges et blanches.
+- Accessoire distinctif : bandeau noir au poignet.
+- Palette dominante : rouge, blanc et noir.
+- Attitude visuelle : posture penchée vers l'avant, gestes brusques, expression impatiente et sourcils froncés.
+
+#### 3. Le silencieux
+
+- Taille intermédiaire, silhouette mince et longiligne.
+- Peau brune, cheveux noirs bouclés courts, yeux sombres.
+- Vêtement signature : veste zippée vert olive, t-shirt gris, pantalon cargo beige foncé et sneakers vert foncé.
+- Accessoire distinctif : lunettes rectangulaires à monture noire.
+- Palette dominante : vert olive, beige et gris.
+- Attitude visuelle : posture immobile, mains souvent jointes ou dans les poches, regard fixe ; il parle peu et reste en retrait.
+
+### Règles de cohérence visuelle du clan
+
+- Tony doit toujours être identifiable comme le cerveau : tenue la plus sobre et la plus maîtrisée, posture calme, regard assuré.
+- Les trois hommes de main doivent conserver leurs silhouettes, coiffures, vêtements signature et palettes respectives d'une scène à l'autre.
+- Ne pas intervertir leurs couleurs ou accessoires distinctifs.
+- Dans une scène où les quatre apparaissent ensemble, il doit être évident que Tony dirige et que les trois autres exécutent.
+- Les vêtements sont sans logos de marques visibles.
+- Les quatre designs doivent rester cohérents avec l'univers : personnages enfants de 0 à 12 ans, proportions juvéniles, jamais de musculature ou de traits d'adultes.
+
 ## Noms de famille — à valider
 
 Les propositions suivantes ont été évoquées mais ne sont pas encore confirmées :
