@@ -107,9 +107,9 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 ---
 
-## Storyboard Flow — 9 séquences, 18 images-clés
+## 1. FRAMES — Images fixes de référence
 
-### Mode d'emploi
+### Règles de construction des frames
 - Chaque séquence possède une image de début et une image de fin.
 - Chaque frame est une image fixe de référence, pas un clip.
 - La technique de film est répétée sur les deux frames d'une séquence.
@@ -121,9 +121,7 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 ---
 
-### Séquence 1 — L'alerte (00:00–00:10)
-**Action entre les images :** Dylan passe de la consultation de son téléphone à un regard direct et urgent, puis lance l'appel. Il reste seul au QG.
-
+### Séquence 1 — L'alerte (00:00–00:10) | Frames
 #### Frame 01 — Début : Dylan consulte son téléphone (00:00)
 ```text
 **What this frame shows:** Image fixe verticale 9:16. Dylan est seul dans le QG, cadré en plan poitrine, légèrement décentré à droite. Il tient son téléphone à hauteur de poitrine et regarde l'écran. Son expression est concentrée, avec le front légèrement plissé. La table centrale et des étagères sont floues derrière lui. Exactement 1 personnage visible : Dylan.
@@ -152,13 +150,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Reprendre le même Dylan, le même cadrage, la même lumière, le même décor et la même palette que la frame 01. Dylan tient toujours son téléphone dans la main droite, mais relève les yeux avec une expression urgente. Son pouce touche l'écran. Un seul personnage visible. Ne rien modifier à son design.
 ```
 
-**Dialogue de la séquence :** Dylan : « Les gars… on a un, très, très gros problème. » puis « Rendez-vous au QG. Maintenant. »
 
 ---
 
-### Séquence 2 — Mathis reçoit l'appel (00:10–00:18)
-**Action entre les images :** Mathis lit son téléphone, se lève du canapé et quitte le salon. Il est seul.
-
+### Séquence 2 — Mathis reçoit l'appel (00:10–00:18) | Frames
 #### Frame 03 — Début : notification (00:10)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, plan moyen. Mathis est seul, assis au centre d'un canapé dans un petit salon contemporain. Son téléphone vibre dans sa main ; il baisse les yeux vers l'écran avec une expression curieuse. Exactement 1 personnage visible : Mathis.
@@ -187,13 +182,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Continuer directement depuis la frame 03. Même Mathis, mêmes vêtements, même salon, même lumière et même caméra. Mathis est maintenant debout devant le canapé, tient sa veste et son téléphone et se tourne vers la sortie à droite. Un seul personnage visible. Aucun personnage supplémentaire.
 ```
 
-**Dialogue de la séquence :** Mathis, à lui-même : « Une urgence ? J'espère que c'est intéressant. »
 
 ---
 
-### Séquence 3 — Zayd arrive à Paris (00:18–00:26)
-**Action entre les images :** Zayd marche avec sa valise, reçoit une notification, s'arrête et fait demi-tour.
-
+### Séquence 3 — Zayd arrive à Paris (00:18–00:26) | Frames
 #### Frame 05 — Début : arrivée à l'aéroport (00:18)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, plan américain. Zayd est seul dans une zone d'arrivée d'aéroport moderne et stylisée. Il tient la poignée d'une petite valise cabine et marche vers la gauche du cadre. Grandes baies vitrées et architecture épurée en arrière-plan, sans panneau lisible ni personne. Exactement 1 personnage visible : Zayd.
@@ -222,13 +214,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Continuer depuis la frame 05. Même Zayd, même terminal, même valise, même lumière et même palette. Zayd est arrêté, regarde son téléphone et commence à tourner son corps vers la droite. Un seul enfant visible. Aucun autre être humain ni reflet.
 ```
 
-**Dialogue de la séquence :** Zayd : « Maintenant ? Je viens à peine d'arriver… »
 
 ---
 
-### Séquence 4 — Li quitte son atelier (00:26–00:34)
-**Action entre les images :** Li travaille sur son petit robot, reçoit le message, réagit avec sarcasme et prend son téléphone. Le robot reste un objet immobile.
-
+### Séquence 4 — Li quitte son atelier (00:26–00:34) | Frames
 #### Frame 07 — Début : Li travaille (00:26)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, plan moyen. Li Wei est seul dans son atelier compact. Il se penche au-dessus d'un établi ; ses mains sont près d'un petit robot mécanique non anthropomorphe posé sur la table. Outils et composants électroniques rangés autour de lui. Exactement 1 personnage visible : Li Wei.
@@ -259,13 +248,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Même Li, même atelier, même établi et même robot que dans la frame 07. Li est redressé et regarde son téléphone avec une expression légèrement sarcastique. Le robot reste immobile, sans visage ni mouvement. Un seul personnage visible.
 ```
 
-**Dialogue de la séquence :** Li Wei : « Si Dylan dit “très gros problème”, c'est rarement un petit problème. »
 
 ---
 
-### Séquence 5 — La réunion (00:34–00:44)
-**Action entre les images :** Les quatre amis sont réunis au QG. La première image établit les quatre positions ; la seconde montre Dylan qui se dirige vers la réserve. Les quatre restent visibles.
-
+### Séquence 5 — La réunion (00:34–00:44) | Frames
 #### Frame 09 — Début : les quatre au QG (00:34)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, plan large de groupe dans le QG. Exactement 4 personnages visibles, chacun une seule fois : Dylan près de la porte de la réserve au fond ; Li Wei à gauche de la table centrale ; Mathis à droite, venant d'arriver ; Zayd près de l'entrée. Les quatre se regardent. Aucun écran ne montre de personne.
@@ -298,16 +284,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Continuer depuis la frame 09. Même QG, même lumière, même table, mêmes positions relatives et mêmes designs. EXACTEMENT quatre personnages visibles : Dylan, Li Wei, Mathis et Zayd, chacun une seule fois. Dylan marche vers la porte de la réserve ; Li, Mathis et Zayd se tournent vers lui pour le suivre. Li est décrit fidèlement depuis la bible. Aucun autre humain, clone, silhouette ou reflet.
 ```
 
-**Dialogues de la séquence :**
-- Mathis : « Bon. Qui est mort ? »
-- Zayd : « Personne, j'espère. »
-- Li Wei : « Dylan, explique. Tu nous as fait venir en urgence. »
 
 ---
 
-### Séquence 6 — La Plata a disparu (00:44–00:58)
-**Action entre les images :** Dylan ouvre la réserve et révèle son contenu vide. Les quatre amis découvrent les rangements vidés. Le mouvement caméra dévoile progressivement la pièce.
-
+### Séquence 6 — La Plata a disparu (00:44–00:58) | Frames
 #### Frame 11 — Début : la porte s'ouvre (00:44)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, caméra placée à l'intérieur de la réserve. Exactement 4 personnages visibles dans l'encadrement : Dylan au premier plan ouvre la porte ; Li Wei, Mathis et Zayd sont alignés derrière lui, tous visibles de la tête aux genoux. La réserve est sombre au premier plan, mais les étagères vides commencent à être visibles.
@@ -340,16 +320,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Continuer depuis la frame 11. Même réserve et même groupe. La porte est entièrement ouverte et révèle plusieurs étagères, boîtes et compartiments totalement vides. EXACTEMENT quatre enfants visibles : Dylan, Li Wei, Mathis et Zayd, chacun une seule fois, dans l'encadrement. La Plata n'est pas un objet unique ; elle est représentée par l'absence de tous les biens qui occupaient les rangements. Aucun autre humain, clone ou reflet.
 ```
 
-**Dialogues de la séquence :**
-- Mathis : « Attends… c'est une blague ? »
-- Zayd : « Tout a disparu ? Même les pièces qu'on avait cachées derrière le panneau ? »
-- Dylan : « Toute la Plata. »
 
 ---
 
-### Séquence 7 — La serrure intacte (00:58–01:10)
-**Action entre les images :** Li s'accroupit devant la serrure et l'examine. Il conclut qu'elle n'a pas été forcée. Mathis réagit. Dylan remarque une carte à la fin de la séquence.
-
+### Séquence 7 — La serrure intacte (00:58–01:10) | Frames
 #### Frame 13 — Début : Li examine la serrure (00:58)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, plan moyen rapproché dans la réserve. Li Wei est accroupi au premier plan, près de la serrure intacte. Dylan, Mathis et Zayd sont tous les trois visibles derrière lui, à distance, sans se chevaucher. Exactement 4 personnages visibles : Li Wei, Dylan, Mathis et Zayd.
@@ -382,16 +356,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Continuer dans la même réserve. Li Wei est toujours près de la serrure intacte, mais relève maintenant les yeux vers ses amis avec une expression réfléchie. Dylan, Mathis et Zayd restent tous visibles en arrière-plan. EXACTEMENT quatre enfants, une seule occurrence chacun. Aucun changement de tenue, coiffure ou palette.
 ```
 
-**Dialogues de la séquence :**
-- Li Wei : « La serrure n'a pas été forcée. »
-- Mathis : « Donc le voleur avait la clé ? »
-- Li Wei : « Ou il savait exactement comment entrer. »
 
 ---
 
-### Séquence 8 — Le message (01:10–01:21)
-**Action entre les images :** Dylan remarque la carte sur une étagère vide, la prend et la retourne vers la caméra. La voix de Zayd intervient hors champ pendant l'insert.
-
+### Séquence 8 — Le message (01:10–01:21) | Frames
 #### Frame 15 — Début : Dylan remarque la carte (01:10)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, gros plan sur Dylan dans la réserve. Dylan est le seul personnage visible. Il tourne légèrement la tête vers une petite carte posée sur une étagère vide, dans la partie basse du cadre. Son expression passe de l'analyse à la méfiance. Exactement 1 personnage visible : Dylan.
@@ -420,13 +388,10 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Insert macro vertical 9:16. Montrer uniquement une main d'enfant tenant une petite carte dans la réserve. Aucun visage, corps ou autre personne. La carte doit afficher exactement : « Toujours un coup d'avance. — T ». Ne pas ajouter de symbole, dessin, logo, autre mot ou signature. Caméra fixe, carte nette et centrée. Si Flow ne restitue pas le texte exactement, générer une carte vierge et ajouter le texte en postproduction.
 ```
 
-**Dialogue de la séquence :** Zayd, hors champ : « T… Tony ? »
 
 ---
 
-### Séquence 9 — La révélation (01:21–01:30)
-**Action entre les images :** Retour au groupe. Dylan confirme que Tony est responsable. Mathis comprend qu'il s'agit de leur ancien ami.
-
+### Séquence 9 — La révélation (01:21–01:30) | Frames
 #### Frame 17 — Début : les quatre comprennent (01:21)
 ```text
 **What this frame shows:** Image fixe verticale 9:16, plan rapproché de groupe dans la réserve. Exactement 4 personnages visibles : Dylan au centre avec la carte dans la main ; Li Wei à sa gauche ; Mathis à sa droite ; Zayd légèrement derrière eux. Les quatre ont une expression sérieuse.
@@ -459,7 +424,172 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Prompt image:** Continuer directement depuis la frame 17. Même groupe, mêmes vêtements, même lumière et même réserve. EXACTEMENT quatre enfants visibles. Dylan tient la carte et regarde ses amis avec froideur ; Mathis est stupéfait ; Li observe en silence ; Zayd est inquiet. Aucun personnage supplémentaire. Garder les quatre visages distincts et cohérents.
 ```
 
-**Dialogues de la séquence :**
+
+---
+
+## 2. SHOTS — Séquences vidéo
+
+Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et de fin de la séquence correspondante. Le prompt doit décrire le mouvement, le jeu des personnages, le rythme et la continuité entre les deux frames. Ne pas ajouter de personnage, d'objet important ou d'action qui n'est pas prévu dans le scénario.
+
+---
+
+### Shot 01 — L'alerte (00:00–00:10)
+
+```text
+**What happens in this shot:** Dylan est seul dans le QG. Il consulte son téléphone, reçoit ou déclenche l'appel de groupe, relève lentement les yeux vers la caméra et prononce son message avec urgence contenue. Il garde le téléphone dans la main droite. Le plan commence sur sa concentration et se termine sur son regard déterminé. Aucun autre personnage n'entre dans le champ.
+
+**Film technique:** Locked-off static — identifiant static. Plan fixe, sans travelling ni coupe. L'intensité vient uniquement du jeu du visage et du geste du pouce.
+
+**References (character, product — max 3):**
+- Dylan — référence personnage Flow.
+```
+
+**Dialogue :** Dylan : « Les gars… on a un, très, très gros problème. » puis « Rendez-vous au QG. Maintenant. »
+
+---
+
+### Shot 02 — Mathis reçoit l'appel (00:10–00:18)
+
+```text
+**What happens in this shot:** Mathis est seul dans son salon. Son téléphone vibre ; il baisse les yeux pour lire la notification, réagit avec une curiosité amusée, se lève du canapé, attrape sa veste et se tourne vers la sortie. Le mouvement doit être fluide et naturel. Ne montrer personne d'autre.
+
+**Film technique:** Locked-off static — identifiant static. Caméra fixe ; Mathis effectue toute l'action dans le cadre.
+
+**References (character, product — max 3):**
+- Mathis — référence personnage Flow.
+```
+
+**Dialogue :** Mathis, à lui-même : « Une urgence ? J'espère que c'est intéressant. »
+
+---
+
+### Shot 03 — Zayd arrive à Paris (00:18–00:26)
+
+```text
+**What happens in this shot:** Zayd marche seul dans la zone d'arrivée vide de l'aéroport avec sa valise cabine. La caméra l'accompagne latéralement. Son téléphone vibre ; il s'arrête, consulte l'écran, marque une courte pause puis pivote pour repartir dans l'autre sens. Garder exactement le même terminal, la même valise et la même tenue pendant tout le plan. Aucun voyageur ni employé.
+
+**Film technique:** Lateral tracking — identifiant lateral-track. Travelling latéral accompagnant Zayd, puis ralentissement et arrêt avec lui.
+
+**References (character, product — max 3):**
+- Zayd — référence personnage Flow.
+- Valise cabine — référence objet si elle existe dans Flow.
+```
+
+**Dialogue :** Zayd : « Maintenant ? Je viens à peine d'arriver… »
+
+---
+
+### Shot 04 — Li quitte son atelier (00:26–00:34)
+
+```text
+**What happens in this shot:** Li travaille seul sur son établi, près d'un petit robot mécanique immobile. Son téléphone vibre. Il s'interrompt, prend le téléphone, lit le message et esquisse un sourire sarcastique. Le robot reste strictement immobile et ne devient jamais un personnage. Li finit le plan en quittant son établi ou en se préparant à partir, sans changement de décor.
+
+**Film technique:** Locked-off static — identifiant static. Caméra fixe ; l'action est portée par Li et le téléphone.
+
+**References (character, product — max 3):**
+- Li Wei — référence personnage Flow.
+- Petit robot mécanique — référence objet, uniquement si elle existe déjà dans Flow.
+```
+
+**Dialogue :** Li Wei : « Si Dylan dit “très gros problème”, c'est rarement un petit problème. »
+
+---
+
+### Shot 05 — La réunion (00:34–00:44)
+
+```text
+**What happens in this shot:** Les quatre amis sont réunis dans le QG : Dylan, Li Wei, Mathis et Zayd, exactement une fois chacun. Ils échangent quelques regards et les répliques prévues. Dylan reste sérieux, se détourne du groupe et commence à marcher vers la porte de la réserve. Les trois autres suivent son mouvement du regard puis se préparent à le suivre. Aucun autre personnage dans le décor ou sur les écrans.
+
+**Film technique:** Pull-back reveal — identifiant pull-back-reveal. La caméra recule progressivement pour révéler la disposition du QG et les quatre amis, puis laisse Dylan guider le regard vers la réserve.
+
+**References (character, product — max 3):**
+- Dylan — référence personnage Flow.
+- Mathis — référence personnage Flow.
+- Zayd — référence personnage Flow.
+Li Wei doit être reproduit depuis sa bible : peau très claire, visage rond, cheveux noirs courts en bataille, yeux verts, lunettes rondes argentées et techwear gris/noir.
+```
+
+**Dialogues :**
+- Mathis : « Bon. Qui est mort ? »
+- Zayd : « Personne, j'espère. »
+- Li Wei : « Dylan, explique. Tu nous as fait venir en urgence. »
+
+---
+
+### Shot 06 — La Plata a disparu (00:44–00:58)
+
+```text
+**What happens in this shot:** Depuis l'intérieur de la réserve, Dylan ouvre la porte. Li Wei, Mathis et Zayd apparaissent derrière lui : exactement quatre personnages au total, sans doublon. La caméra recule pour révéler progressivement les étagères, boîtes et compartiments entièrement vides. Les quatre découvrent l'ampleur du vol et réagissent. La Plata est un ensemble de biens accumulés, pas un objet unique ; montrer clairement que tous les rangements ont été vidés.
+
+**Film technique:** Pull-back reveal — identifiant pull-back-reveal. Recul continu depuis la porte vers une vue large de la réserve vidée.
+
+**References (character, product — max 3):**
+- Dylan — référence personnage Flow.
+- Mathis — référence personnage Flow.
+- Zayd — référence personnage Flow.
+Li Wei doit correspondre précisément à sa bible. Les étagères, boîtes et compartiments sont vides ; ne pas inventer un coffre central représentant toute la Plata.
+```
+
+**Dialogues :**
+- Mathis : « Attends… c'est une blague ? »
+- Zayd : « Tout a disparu ? Même les pièces qu'on avait cachées derrière le panneau ? »
+- Dylan : « Toute la Plata. »
+
+---
+
+### Shot 07 — La serrure intacte (00:58–01:10)
+
+```text
+**What happens in this shot:** Dans la réserve vide, Li Wei s'accroupit et examine attentivement la serrure. La caméra adopte une légère instabilité documentaire et se rapproche subtilement de son inspection. Li constate que la serrure n'a pas été forcée. Mathis lui demande si le voleur avait la clé ; Li relève les yeux et répond qu'il connaissait peut-être exactement la manière d'entrer. À la fin du plan, Dylan remarque une petite carte posée sur une étagère vide. Les quatre amis restent les seuls personnages présents.
+
+**Film technique:** Handheld documentary — identifiant handheld. Caméra portée discrète, micro-ajustements naturels, sans secousse excessive ni coupe.
+
+**References (character, product — max 3):**
+- Li Wei — référence personnage Flow.
+- Dylan — référence personnage Flow.
+- Mathis — référence personnage Flow.
+Zayd reste présent dans le fond et doit garder son design canonique.
+```
+
+**Dialogues :**
+- Li Wei : « La serrure n'a pas été forcée. »
+- Mathis : « Donc le voleur avait la clé ? »
+- Li Wei : « Ou il savait exactement comment entrer. »
+
+---
+
+### Shot 08 — Le message (01:10–01:21)
+
+```text
+**What happens in this shot:** Dylan remarque une petite carte sur une étagère vide. Il tourne la tête vers elle, la saisit et la présente à la caméra. La caméra effectue un rapprochement rapide jusqu'à un insert où seule la main de Dylan et la carte sont visibles. La carte porte exactement le texte « Toujours un coup d'avance. — T ». La voix de Zayd prononce « T… Tony ? » hors champ. Ne pas montrer Tony ni ajouter de symbole ou de signature.
+
+**Film technique:** Crash zoom — identifiant crash-zoom. Rapprochement rapide et contrôlé de Dylan vers la carte, puis maintien de l'insert parfaitement lisible.
+
+**References (character, product — max 3):**
+- Dylan — référence personnage Flow.
+- Carte manuscrite — référence objet si elle existe dans Flow.
+Si Flow ne reproduit pas exactement le texte, utiliser une carte vierge et ajouter l'inscription en postproduction.
+```
+
+**Dialogue :** Zayd, hors champ : « T… Tony ? »
+
+---
+
+### Shot 09 — La révélation (01:21–01:30)
+
+```text
+**What happens in this shot:** Retour sur le groupe dans la réserve. Exactement quatre personnages visibles : Dylan, Li Wei, Mathis et Zayd. Dylan tient toujours la carte et annonce froidement que Tony est responsable. Mathis réagit avec incrédulité et demande s'il s'agit bien de leur ancien Tony. Li observe la carte en silence ; Zayd paraît inquiet. Terminer sur le regard déterminé de Dylan et un bref silence. Tony ne doit pas apparaître physiquement.
+
+**Film technique:** Crash zoom — identifiant crash-zoom. Rapprochement rapide vers le groupe, puis resserrement final sur Dylan au moment de la révélation.
+
+**References (character, product — max 3):**
+- Dylan — référence personnage Flow.
+- Mathis — référence personnage Flow.
+- Zayd — référence personnage Flow.
+Li Wei doit être reproduit fidèlement depuis sa bible et rester clairement visible.
+```
+
+**Dialogues :**
 - Dylan : « C'est Tony. »
 - Mathis : « Notre Tony ? »
 
