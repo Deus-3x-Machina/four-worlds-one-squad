@@ -31,7 +31,7 @@ L'épisode doit faire comprendre que la Plata est une réserve commune, que le v
 ### Séquence 1 — L'alerte (00:00–00:10)
 **Lieu :** QG. Dylan est seul près de la table centrale. Il consulte son téléphone, relève les yeux et lance un appel de groupe.
 
-**DYLAN** (bas, pressé) : « Les gars… on a un, très, très gros problème. »
+**DYLAN** (bas, pressé) : « Les gars… on a un très, très, très gros problème. »
 
 **DYLAN** (plus sec) : « Rendez-vous au QG. Maintenant. »
 
@@ -351,7 +351,7 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 #### Frame 15 — Début : Dylan remarque la carte (01:10)
 **What this frame shows:** Image fixe verticale 9:16, gros plan sur Dylan dans la réserve. Dylan est le seul personnage visible. Il tourne légèrement la tête vers une petite carte posée sur une étagère vide, dans la partie basse du cadre. Son expression passe de l'analyse à la méfiance. Exactement 1 personnage visible : Dylan.
 
-**Film technique:** Snap zoom to eyes — identifiant snap-zoom-eyes. La caméra part d'un cadrage rapproché et termine sur les yeux de Dylan lorsqu'il remarque la carte.
+**Film technique:** Crash zoom — identifiant crash-zoom. La caméra avance rapidement vers Dylan et s'arrête brusquement lorsqu'il remarque la carte.
 
 **References:**
 - Dylan — référence personnage Flow.
@@ -363,7 +363,7 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 #### Frame 16 — Fin : la carte dans la main de Dylan (01:21)
 **What this frame shows:** Insert vertical très rapproché. Seule la main de Dylan est visible, tenant une petite carte au centre du cadre. La carte porte une unique inscription manuscrite : « Toujours un coup d'avance. — T ». Aucun visage ni autre personnage visible. L'arrière-plan est flou et correspond à la réserve.
 
-**Film technique:** Locked-off static — identifiant static. Caméra parfaitement fixe sur la carte pour permettre la lecture du message.
+**Film technique:** Crash zoom — identifiant crash-zoom. La caméra termine son mouvement en arrivant sur la carte, puis la maintient nette et lisible.
 
 **References:**
 - Dylan — référence personnage Flow, uniquement pour la cohérence de la main et de la manche.
