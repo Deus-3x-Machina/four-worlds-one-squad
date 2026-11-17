@@ -22,6 +22,7 @@ La série est centrée sur les quatre garçons. Les personnages secondaires inte
 - [Relations](bible/relationships.md)
 - [Règles narratives](bible/narrative-rules.md)
 - [Identité visuelle](bible/visual-identity.md)
+- [Référentiel des lieux et objets](bible/locations-and-props.md)
 
 ## Saisons
 
