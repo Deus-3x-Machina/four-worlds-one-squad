@@ -130,6 +130,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
+- LOC-01 — QG du groupe.
+- PROP-01 — Téléphone personnel.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -144,6 +146,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
+- LOC-01 — QG du groupe.
+- PROP-01 — Téléphone personnel.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -162,6 +166,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Mathis — référence personnage Flow.
+- LOC-03 — Salon de Mathis.
+- PROP-01 — Téléphone personnel.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -176,6 +182,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Mathis — référence personnage Flow.
+- LOC-03 — Salon de Mathis.
+- PROP-01 — Téléphone personnel.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -194,6 +202,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Zayd — référence personnage Flow.
+- LOC-04 — Aéroport de Paris, zone d'arrivée.
+- PROP-02 — Valise cabine de Zayd.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -208,6 +218,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Zayd — référence personnage Flow.
+- LOC-04 — Aéroport de Paris, zone d'arrivée.
+- PROP-02 — Valise cabine de Zayd.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -226,7 +238,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Li Wei — référence personnage Flow.
-- Petit robot — référence objet, uniquement si elle existe déjà dans Flow.
+- LOC-05 — Atelier technologique de Li.
+- PROP-03 — Petit robot mécanique de Li.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -241,7 +254,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Li Wei — référence personnage Flow.
-- Petit robot — référence objet, uniquement si disponible.
+- LOC-05 — Atelier technologique de Li.
+- PROP-03 — Petit robot mécanique de Li.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -260,8 +274,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
+- LOC-01 — QG du groupe.
+- Mathis, Li Wei et Zayd sont décrits depuis la bible des personnages.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -276,8 +290,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
+- LOC-01 — QG du groupe.
+- La porte de réserve est décrite depuis LOC-02 — Réserve de la Plata.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -296,8 +310,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- Li Wei, Mathis et Zayd sont décrits depuis la bible des personnages.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -312,8 +326,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- Li Wei, Mathis et Zayd sont décrits depuis la bible des personnages.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -332,8 +346,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Li Wei — référence personnage Flow.
-- Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- PROP-04 — Serrure de la réserve.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -348,8 +362,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Li Wei — référence personnage Flow.
-- Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- PROP-04 — Serrure de la réserve.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -368,6 +382,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- PROP-05 — Carte manuscrite de Tony.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -381,7 +397,9 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 **Film technique:** Crash zoom — identifiant crash-zoom. La caméra termine son mouvement en arrivant sur la carte, puis la maintient nette et lisible.
 
 **References:**
-- Dylan — référence personnage Flow, uniquement pour la cohérence de la main et de la manche.
+- Dylan — référence personnage Flow (main et manche).
+- LOC-02 — Réserve de la Plata.
+- PROP-05 — Carte manuscrite de Tony.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -400,8 +418,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- PROP-05 — Carte manuscrite de Tony.
 
 **Match previous frame (same character drawing, palette and style):** false
 
@@ -416,8 +434,8 @@ Dylan acquiesce. Li observe la carte en silence. Les quatre comprennent que le v
 
 **References:**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
+- LOC-02 — Réserve de la Plata.
+- PROP-05 — Carte manuscrite de Tony.
 
 **Match previous frame (same character drawing, palette and style):** true
 
@@ -442,6 +460,9 @@ Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et 
 
 **References (character, product — max 3):**
 - Dylan — référence personnage Flow.
+- LOC-01 — QG du groupe.
+- PROP-01 — Téléphone personnel.
+
 ```
 
 **Dialogue :** Dylan : « Les gars… on a un, très, très gros problème. » puis « Rendez-vous au QG. Maintenant. »
@@ -457,6 +478,9 @@ Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et 
 
 **References (character, product — max 3):**
 - Mathis — référence personnage Flow.
+- LOC-03 — Salon de Mathis.
+- PROP-01 — Téléphone personnel.
+
 ```
 
 **Dialogue :** Mathis, à lui-même : « Une urgence ? J'espère que c'est intéressant. »
@@ -472,7 +496,9 @@ Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et 
 
 **References (character, product — max 3):**
 - Zayd — référence personnage Flow.
-- Valise cabine — référence objet si elle existe dans Flow.
+- LOC-04 — Aéroport de Paris, zone d'arrivée.
+- PROP-02 — Valise cabine de Zayd.
+
 ```
 
 **Dialogue :** Zayd : « Maintenant ? Je viens à peine d'arriver… »
@@ -488,7 +514,9 @@ Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et 
 
 **References (character, product — max 3):**
 - Li Wei — référence personnage Flow.
-- Petit robot mécanique — référence objet, uniquement si elle existe déjà dans Flow.
+- LOC-05 — Atelier technologique de Li.
+- PROP-03 — Petit robot mécanique de Li.
+
 ```
 
 **Dialogue :** Li Wei : « Si Dylan dit “très gros problème”, c'est rarement un petit problème. »
@@ -504,9 +532,9 @@ Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et 
 
 **References (character, product — max 3):**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
-Li Wei doit être reproduit depuis sa bible : peau très claire, visage rond, cheveux noirs courts en bataille, yeux verts, lunettes rondes argentées et techwear gris/noir.
+- LOC-01 — QG du groupe.
+- Les trois autres garçons sont décrits depuis la bible des personnages.
+
 ```
 
 **Dialogues :**
@@ -525,9 +553,9 @@ Li Wei doit être reproduit depuis sa bible : peau très claire, visage rond, ch
 
 **References (character, product — max 3):**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
-Li Wei doit correspondre précisément à sa bible. Les étagères, boîtes et compartiments sont vides ; ne pas inventer un coffre central représentant toute la Plata.
+- LOC-02 — Réserve de la Plata.
+- Les trois autres garçons sont décrits depuis la bible des personnages.
+
 ```
 
 **Dialogues :**
@@ -546,9 +574,9 @@ Li Wei doit correspondre précisément à sa bible. Les étagères, boîtes et c
 
 **References (character, product — max 3):**
 - Li Wei — référence personnage Flow.
-- Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-Zayd reste présent dans le fond et doit garder son design canonique.
+- LOC-02 — Réserve de la Plata.
+- PROP-04 — Serrure de la réserve.
+
 ```
 
 **Dialogues :**
@@ -567,8 +595,9 @@ Zayd reste présent dans le fond et doit garder son design canonique.
 
 **References (character, product — max 3):**
 - Dylan — référence personnage Flow.
-- Carte manuscrite — référence objet si elle existe dans Flow.
-Si Flow ne reproduit pas exactement le texte, utiliser une carte vierge et ajouter l'inscription en postproduction.
+- LOC-02 — Réserve de la Plata.
+- PROP-05 — Carte manuscrite de Tony.
+
 ```
 
 **Dialogue :** Zayd, hors champ : « T… Tony ? »
@@ -584,9 +613,9 @@ Si Flow ne reproduit pas exactement le texte, utiliser une carte vierge et ajout
 
 **References (character, product — max 3):**
 - Dylan — référence personnage Flow.
-- Mathis — référence personnage Flow.
-- Zayd — référence personnage Flow.
-Li Wei doit être reproduit fidèlement depuis sa bible et rester clairement visible.
+- LOC-02 — Réserve de la Plata.
+- PROP-05 — Carte manuscrite de Tony.
+
 ```
 
 **Dialogues :**
