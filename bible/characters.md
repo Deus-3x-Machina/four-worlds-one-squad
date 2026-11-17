@@ -30,6 +30,11 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Direction visuelle : enfant réaliste de 11 ans, allure discrète et naturelle. Le contraste entre son apparence simple et son ambition/manipulation est volontaire.
 - **Référence visuelle approuvée par l'utilisateur** : première fiche de personnage photoréaliste générée pendant la création de Dylan. Cette apparence sert de base de cohérence pour les futures images et vidéos ; ne pas la remplacer sans validation.
 
+### Identité vocale
+
+- Voix Flow : **Schedar**.
+- Cette voix est la référence vocale attribuée à Dylan pour ses dialogues et prises de parole dans la série.
+
 ## Li Wei
 
 - Nationalité : chinoise.
@@ -72,7 +77,7 @@ Les propositions suivantes ont été évoquées mais ne sont pas encore confirm�
 
 - Apparence physique précise de Li Wei, Mathis et Zayd.
 - Coiffures, silhouettes, vêtements et accessoires récurrents des trois autres personnages.
-- Voix, accents et expressions caractéristiques.
+- Voix, accents et expressions caractéristiques des autres personnages.
 - Forces, défauts, peurs, ambitions et contradictions plus détaillés.
 - Histoire familiale et personnages secondaires récurrents.
 
