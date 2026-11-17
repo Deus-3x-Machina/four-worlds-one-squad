@@ -95,6 +95,126 @@ Les quatre amis récupèrent toute la Plata, mais Tony réussit à s'enfuir. La 
 | 7 | Opération Plata | Les quatre amis mettent au point leur opération pour récupérer l'ensemble du trésor. |
 | 8 | Le Dernier Coup | Ils récupèrent toute la Plata. Tony réussit à s'échapper. |
 
+
+## Découpage narratif détaillé — version de production
+
+Ce découpage fixe la progression dramatique de la saison et les fins d'épisodes. Il ne remplace pas les scénarios dialogués ni les prompts de génération. Chaque épisode doit rester compréhensible seul, tout en donnant envie de voir le suivant.
+
+### Épisode 1 — La Casse
+
+**Fonction :** lancer l'histoire, réunir les quatre amis et révéler le vol.
+
+1. Dylan convoque les trois autres en urgence. Il annonce qu'ils ont un « très, très, très gros problème ».
+2. On découvre brièvement les trois autres en route vers leur quartier général : Mathis interrompt un moment avec sa petite amie, Zayd arrive de voyage en avion, Li est occupé dans son garage avec un robot.
+3. Les quatre se retrouvent au QG. Dylan leur montre que leur réserve a été vidée : toute la Plata a disparu.
+4. Li examine les traces disponibles. Un détail indique que le voleur connaissait parfaitement les lieux et les habitudes du groupe.
+5. Dylan découvre un signe ou un message laissé volontairement par Tony.
+
+**Cliffhanger :** Dylan comprend que le voleur est Tony, leur ancien ami. Ce n'est pas un cambriolage ordinaire : Tony les a personnellement défiés.
+
+### Épisode 2 — Le Traître
+
+**Fonction :** établir que Tony a préparé le vol et lancer la traque.
+
+1. Les garçons reconstituent le déroulement du vol. L'accès n'a pas été forcé au hasard : le voleur connaissait leurs sécurités et leurs réflexes.
+2. Li retrouve une trace exploitable dans les éléments laissés derrière, mais elle ne donne pas directement l'emplacement de la Plata.
+3. Dylan reconnaît une méthode qu'il utilisait autrefois avec Tony. Il comprend que celui-ci a exploité une habitude de leur ancienne bande.
+4. Le groupe suit la piste jusqu'à un premier lieu de rendez-vous à Paris.
+5. Ils arrivent trop tard : le lieu est vide, mais un indice prouve que Tony les observait ou anticipait leur arrivée.
+
+**Cliffhanger :** un message de Tony leur fait comprendre qu'il sait déjà qu'ils sont sur sa piste — et qu'il les attend.
+
+### Épisode 3 — Les Vieilles Habitudes
+
+**Fonction :** faire entrer le passé dans l'enquête et montrer la connaissance intime de Tony.
+
+1. La piste mène les quatre amis vers un endroit lié à une ancienne combine de leur bande.
+2. Mathis reconnaît un détail oublié et, par une improvisation, permet au groupe de trouver un indice caché.
+3. L'indice confirme que Tony a utilisé une ancienne procédure ou un ancien code que seuls les membres de la bande connaissaient.
+4. Les garçons comprennent que Tony n'a pas seulement volé leur trésor : il a utilisé leur histoire commune pour le faire.
+5. Une présence du clan de Tony est repérée. Les garçons aperçoivent au moins un de ses hommes de main, sans parvenir à l'intercepter.
+
+**Cliffhanger :** le groupe découvre que Tony n'agit pas seul. Il a désormais son propre clan.
+
+### Épisode 4 — Double Jeu
+
+**Fonction :** faire perdre à Dylan son avantage habituel et installer le duel stratégique.
+
+1. Dylan élabore un plan pour devancer Tony et atteindre une cache supposée de la Plata.
+2. Li identifie une incohérence dans les informations disponibles, mais Dylan choisit malgré tout de poursuivre son plan.
+3. Le groupe tombe dans une mise en scène préparée par Tony. Les hommes de main interviennent pour bloquer leur progression.
+4. Les garçons s'en sortent grâce à une réaction imprévue de Mathis et à l'aide de Zayd, mais ils ne récupèrent rien.
+5. Dylan comprend que Tony avait anticipé exactement le genre de décision qu'il prend habituellement.
+
+**Cliffhanger :** Tony contacte Dylan et lui fait comprendre qu'il connaît encore ses réflexes mieux que quiconque.
+
+### Épisode 5 — L'Ancien Temps
+
+**Fonction :** donner une dimension émotionnelle à la rivalité sans révéler prématurément tous les détails de la rupture.
+
+1. Un nouvel indice oblige le groupe à revisiter un souvenir de l'époque où Tony faisait encore partie de la bande.
+2. À travers un flashback court, on découvre Dylan et Tony travaillant ensemble comme les deux cerveaux du groupe.
+3. Leur complicité passée apparaît, mais aussi leur tendance à se mesurer l'un à l'autre et à vouloir démontrer qui avait le meilleur plan.
+4. Dans le présent, les amis comprennent que Tony a transformé cette ancienne compétition en obsession.
+5. Dylan réalise que cette affaire le touche personnellement et que son envie de battre Tony risque de nuire au groupe.
+
+**Cliffhanger :** un nouvel élément révèle où Tony prépare son prochain mouvement, mais le groupe comprend qu'il ne dispose que de très peu de temps pour agir.
+
+### Épisode 6 — La Contre-Attaque
+
+**Fonction :** renverser le rapport de force et obliger les quatre amis à changer de méthode.
+
+1. Les garçons tentent de prendre Tony de vitesse à partir de la piste obtenue à l'épisode précédent.
+2. Tony réagit avant eux et lance ses trois hommes de main pour neutraliser leur avancée et récupérer l'indice qu'ils détiennent.
+3. Le groupe est séparé ou coincé quelques instants. Chacun doit utiliser sa compétence sans attendre les instructions de Dylan.
+4. Li trouve une solution technique, Mathis crée une diversion et Zayd mobilise ses moyens pour permettre au groupe de se retrouver.
+5. Dylan accepte de modifier son plan et comprend qu'il ne pourra pas gagner seul contre Tony.
+
+**Cliffhanger :** les quatre amis obtiennent enfin une piste crédible vers la cache principale de la Plata — mais Tony semble lui aussi prêt à passer à l'action.
+
+### Épisode 7 — Opération Plata
+
+**Fonction :** préparer le coup final et faire converger les compétences du groupe.
+
+1. Les quatre amis analysent la piste et établissent ce qu'ils savent de la cache et de la présence du clan.
+2. Dylan propose une stratégie d'ensemble, mais cette fois chacun contribue réellement au plan.
+3. Li prépare le dispositif technique, Zayd fournit les ressources nécessaires et Mathis reçoit un rôle qui exploite son imprévisibilité.
+4. Le groupe met en place une diversion pour détourner l'attention de Tony et de ses hommes de main.
+5. L'opération commence. Les garçons atteignent le lieu où la Plata est retenue, mais découvrent que Tony les a rejoints.
+
+**Cliffhanger :** Dylan et Tony se retrouvent face à face, au moment où la récupération de la Plata est sur le point de basculer.
+
+### Épisode 8 — Le Dernier Coup
+
+**Fonction :** conclure l'arc de la Plata, résoudre le duel de la saison et laisser Tony libre.
+
+1. Tony tente de reprendre le contrôle de la situation et provoque Dylan sur leur rivalité passée.
+2. Dylan refuse de transformer l'opération en duel personnel. Il fait confiance au plan collectif et aux initiatives de ses amis.
+3. Les quatre amis combinent leurs compétences pour contourner les hommes de main et sécuriser les différents éléments de la Plata.
+4. Ils récupèrent l'intégralité de leur trésor commun. Le clan de Tony est mis en échec.
+5. Dans la confusion qui suit, Tony trouve une occasion de s'échapper avant que les garçons puissent l'arrêter.
+6. Les quatre amis constatent qu'ils ont tout récupéré. Leur victoire est réelle, mais Tony est toujours en liberté.
+
+**Cliffhanger final :** Tony s'éloigne, libre, avec la certitude que sa rivalité avec Dylan n'est pas terminée.
+
+## Progression des personnages sur la saison
+
+- **Dylan :** commence avec une réaction très personnelle au vol. Il veut battre Tony sur son propre terrain, puis comprend qu'il doit faire confiance au groupe plutôt que chercher à prouver seul qu'il est le meilleur.
+- **Li Wei :** passe de l'analyse technique du vol à une lecture plus large des habitudes et des méthodes de Tony. Il reste discret et sarcastique, mais joue un rôle déterminant dans les contre-mesures.
+- **Mathis :** ses improvisations semblent d'abord compliquer les plans. Elles deviennent progressivement un avantage que Tony ne sait pas anticiper.
+- **Zayd :** ses ressources facilitent les opérations, mais il découvre que l'argent ne règle pas tout. Sa contribution devient plus utile lorsqu'il agit en coordination avec les autres.
+- **Tony :** apparaît d'abord comme le responsable du vol, puis comme un ancien ami devenu rival et un stratège qui connaît intimement la bande. Il perd la Plata, mais échappe à ses anciens amis.
+
+## Règles de mise en scène pour cette saison
+
+- Chaque épisode dure environ 90 secondes, avec une limite habituelle de 2 minutes.
+- Chaque épisode doit avoir un objectif immédiatement lisible, un obstacle concret et une fin qui relance l'intrigue.
+- Les scènes doivent rester visuellement simples et faciles à produire : peu de lieux par épisode, actions lisibles, nombre exact de personnages présents clairement indiqué dans chaque prompt.
+- Tony et ses trois hommes de main ne doivent pas être montrés comme un groupe de quatre cerveaux : Tony dirige et manipule, les trois autres exécutent.
+- Les flashbacks doivent être courts et apporter une information nouvelle sur l'ancienne bande.
+- Ne pas révéler les circonstances exactes de la rupture entre Tony et Dylan avant qu'elles aient été décidées.
+- La Plata reste un ensemble de biens et de butins. La récupération finale doit donc montrer qu'ils récupèrent toute leur réserve, pas un seul objet symbolique.
+
 ## Principes de continuité
 
 - Tony doit être traité comme un ancien membre de la bande, et non comme un ennemi extérieur qui ne les aurait jamais connus.
