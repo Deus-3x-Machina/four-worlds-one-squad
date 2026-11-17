@@ -33,6 +33,9 @@ Dans la saison 1, Tony, un ancien membre de leur bande devenu rival, dérobe la 
 
 Tony et Dylan étaient les deux cerveaux de la bande. Leur intelligence, leur ambition et leur goût de la stratégie ont nourri une compétition permanente. Cette rivalité a progressivement pris le dessus sur leur complicité et a fini par détruire leur amitié. Après la rupture, Tony a décidé de monter son propre clan avec de nouveaux membres. Il veut désormais prouver qu'il est meilleur que Dylan. Le vol de la Plata devient ainsi autant un défi personnel lancé à Dylan qu'une attaque contre le groupe.
 
+
+Après leur rupture, Tony fonde son propre clan : il en est le cerveau et s'entoure de trois hommes de main. Il les manipule et les utilise pour exécuter ses plans. Les quatre membres du clan sont des enfants, comme tous les personnages de cet univers. Leurs descriptions visuelles sont consignées dans la bible des personnages.
+
 ## Ton et genres
 
 La série peut explorer plusieurs genres selon les épisodes : comédie, aventure, business, lifestyle, drame, mystère, amitié et relations.
