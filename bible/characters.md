@@ -75,3 +75,25 @@ Les propositions suivantes ont été évoquées mais ne sont pas encore confirm�
 - Voix, accents et expressions caractéristiques.
 - Forces, défauts, peurs, ambitions et contradictions plus détaillés.
 - Histoire familiale et personnages secondaires récurrents.
+
+
+## Li Wei — référence visuelle
+
+- Âge : 10 ans.
+- Origine : chinoise.
+- Taille : 1,50 m.
+- Silhouette : mince et frêle.
+- Teint : très clair.
+- Visage : rond et enfantin.
+- Cheveux : noirs, courts et légèrement ébouriffés.
+- Yeux : verts.
+- Lunettes : rondes, à monture argentée.
+- Expression naturelle : petit sourire sarcastique.
+- Style vestimentaire : techwear gris clair et noir.
+- Haut : veste techwear à plusieurs poches, coupe moderne et fonctionnelle.
+- Pantalon : cargo techwear noir.
+- Chaussures : sneakers gris clair et noir.
+- Accessoire : écouteurs sans fil.
+- Direction visuelle : rendu photoréaliste et cinématographique, proportions réalistes d'un enfant de 10 ans, vêtements sans logos visibles.
+
+Cette description constitue la base validée de son design. L'image de référence n'a pas encore été générée ni ajoutée au dépôt.
