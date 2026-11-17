@@ -43,49 +43,8 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Traits dominants : intelligent, discret, curieux et sarcastique.
 - Compétences : programmation, cybersécurité, intelligence artificielle et résolution de problèmes techniques.
 
-## Mathis
+### Référence visuelle
 
-- Nationalité : française.
-- Âge : 12 ans.
-- Rôle : activité ou métier différent selon les périodes et les épisodes.
-- Traits dominants : clown du groupe, drôle et imprévisible ; il aime faire rire les autres, y compris dans les situations les plus inappropriées.
-- Fonction dans le groupe : apporte une grande partie de l'humour et détend l'atmosphère, mais ses blagues et ses initiatives peuvent aussi compliquer les situations. Il peut devenir rappeur, salarié, livreur, agent immobilier ou se retrouver sans emploi. Le comique vient aussi de ses changements de cap et des conséquences de ses décisions.
-- Important : Mathis n'a pas de profession stable et ne doit pas être défini comme un PDG permanent.
-
-## Zayd
-
-- Nationalité : saoudienne.
-- Âge : 11 ans.
-- Rôle : héritier.
-- Famille : son père est un magnat émirati du pétrole.
-- Traits dominants : gâté, généreux, flambeur et naïf.
-- Mode de vie : profite de la richesse familiale et ne travaille pas comme activité principale. Il aime le luxe et impressionner, mais partage volontiers avec ses amis et aime leur faire plaisir.
-- Particularité comique : il est tellement habitué à l'argent et au confort qu'il ne comprend pas toujours les contraintes financières des autres ni la valeur réelle des choses. Il peut penser qu'il suffit de payer pour régler n'importe quel problème.
-- Nuance : malgré son côté privilégié et parfois déconnecté, il est généreux et attaché à ses amis. Sa naïveté n'en fait pas quelqu'un de stupide.
-- Il peut parfois être impliqué dans les affaires de son père.
-- Important : Zayd est saoudien ; son père est émirati.
-
-## Noms de famille — à valider
-
-Les propositions suivantes ont été évoquées mais ne sont pas encore confirmées :
-- Dylan Mbarga
-- Li Wei (nom complet à préciser si nécessaire)
-- Mathis Morel
-- Zayd Al-Harbi
-
-## À définir ultérieurement
-
-- Apparence physique précise de Li Wei, Mathis et Zayd.
-- Coiffures, silhouettes, vêtements et accessoires récurrents des trois autres personnages.
-- Voix, accents et expressions caractéristiques des autres personnages.
-- Forces, défauts, peurs, ambitions et contradictions plus détaillés.
-- Histoire familiale et personnages secondaires récurrents.
-
-
-## Li Wei — référence visuelle
-
-- Âge : 10 ans.
-- Origine : chinoise.
 - Taille : 1,50 m.
 - Silhouette : mince et frêle.
 - Teint : très clair.
@@ -101,4 +60,74 @@ Les propositions suivantes ont été évoquées mais ne sont pas encore confirm�
 - Accessoire : écouteurs sans fil.
 - Direction visuelle : rendu photoréaliste et cinématographique, proportions réalistes d'un enfant de 10 ans, vêtements sans logos visibles.
 
-Cette description constitue la base validée de son design. L'image de référence n'a pas encore été générée ni ajoutée au dépôt.
+Cette description constitue la base de son design. La référence visuelle Flow reste à créer ou à valider.
+
+## Mathis
+
+- Nationalité : française.
+- Âge : 12 ans.
+- Rôle : activité ou métier différent selon les périodes et les épisodes.
+- Traits dominants : clown du groupe, drôle et imprévisible ; il aime faire rire les autres, y compris dans les situations les plus inappropriées.
+- Fonction dans le groupe : apporte une grande partie de l'humour et détend l'atmosphère, mais ses blagues et ses initiatives peuvent aussi compliquer les situations. Il peut devenir rappeur, salarié, livreur, agent immobilier ou se retrouver sans emploi. Le comique vient aussi de ses changements de cap et des conséquences de ses décisions.
+- Important : Mathis n'a pas de profession stable et ne doit pas être défini comme un PDG permanent.
+
+### Référence visuelle
+
+- Carnation : peau blanche.
+- Visage : juvénile, légèrement rond et très expressif.
+- Yeux : bleus.
+- Cheveux : bruns, mi-courts et ébouriffés, avec quelques mèches rebelles sur le front.
+- Morphologie : moyenne, ni particulièrement mince ni athlétique.
+- Tenue : hoodie vert légèrement ample et short vert assorti.
+- Chaussures : sneakers blanches, avec chaussettes blanches.
+- Accessoire : bracelet en tissu coloré au poignet.
+- Expression naturelle : sourire malicieux, sourcils mobiles et expressions faciales exagérées.
+- Gestuelle : énergique, spontanée et décontractée.
+- Direction visuelle : animation 3D stylisée de haute qualité, proportions réalistes d'un enfant de 12 ans, textures détaillées et éclairage cinématographique, sans logos visibles.
+
+Cette description est la base de référence choisie pour créer Mathis dans Flow. La fiche visuelle Flow reste à générer et à valider.
+
+## Zayd
+
+- Nationalité : saoudienne.
+- Âge : 11 ans.
+- Rôle : héritier.
+- Famille : son père est un magnat émirati du pétrole.
+- Traits dominants : gâté, généreux, flambeur et naïf.
+- Mode de vie : profite de la richesse familiale et ne travaille pas comme activité principale. Il aime le luxe et impressionner, mais partage volontiers avec ses amis et aime leur faire plaisir.
+- Particularité comique : il est tellement habitué à l'argent et au confort qu'il ne comprend pas toujours les contraintes financières des autres ni la valeur réelle des choses. Il peut penser qu'il suffit de payer pour régler n'importe quel problème.
+- Nuance : malgré son côté privilégié et parfois déconnecté, il est généreux et attaché à ses amis. Sa naïveté n'en fait pas quelqu'un de stupide.
+- Il peut parfois être impliqué dans les affaires de son père.
+- Important : Zayd est saoudien ; son père est émirati.
+
+### Référence visuelle
+
+- Carnation : mate dorée.
+- Yeux : brun foncé.
+- Cheveux : brun très foncé, épais et légèrement ondulés, coiffés avec soin.
+- Visage : doux et juvénile, avec des joues légèrement rebondies.
+- Morphologie : moyenne, légèrement robuste.
+- Haut : surchemise bleu marine de qualité portée sur un t-shirt blanc.
+- Bas : short beige élégant.
+- Chaussures : sneakers blanches haut de gamme avec des détails dorés discrets.
+- Accessoires : montre connectée premium et bracelet discret.
+- Style : casual luxueux, vêtements impeccables et matières de qualité, sans logos de marques visibles. Le style doit suggérer son milieu privilégié sans le faire paraître adulte.
+- Expression naturelle : souriante et confiante, avec une certaine naïveté attachante.
+- Direction visuelle : animation 3D stylisée de haute qualité, proportions réalistes d'un enfant de 11 ans, textures détaillées et éclairage cinématographique.
+
+Cette description est la proposition visuelle retenue pour créer Zayd dans Flow, à la demande de l'utilisateur qui a délégué les choix de design restants. La fiche visuelle Flow reste à générer et à valider.
+
+## Noms de famille — à valider
+
+Les propositions suivantes ont été évoquées mais ne sont pas encore confirmées :
+- Dylan Mbarga
+- Li Wei (nom complet à préciser si nécessaire)
+- Mathis Morel
+- Zayd Al-Harbi
+
+## À définir ultérieurement
+
+- Voix, accents et expressions caractéristiques de Li Wei, Mathis et Zayd.
+- Validation des fiches de référence visuelles créées dans Flow pour les quatre personnages.
+- Forces, défauts, peurs, ambitions et contradictions plus détaillés.
+- Histoire familiale et personnages secondaires récurrents.
