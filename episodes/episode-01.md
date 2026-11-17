@@ -140,7 +140,10 @@ Locked-off static — identifiant static. Caméra fixe sur trépied, sans mouvem
 - PROP-01 — Téléphone personnel.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -165,7 +168,10 @@ Locked-off static — identifiant static. Même caméra fixe que la frame 01 ; s
 - PROP-01 — Téléphone personnel.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -194,7 +200,10 @@ Locked-off static — identifiant static. Cadrage stable pour rendre l'action li
 - PROP-01 — Téléphone personnel.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -219,7 +228,10 @@ Locked-off static — identifiant static. La caméra reste fixe ; le changement 
 - PROP-01 — Téléphone personnel.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -248,7 +260,10 @@ Lateral tracking — identifiant lateral-track. La caméra accompagne Zayd laté
 - PROP-02 — Valise cabine de Zayd.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -273,7 +288,10 @@ Lateral tracking — identifiant lateral-track. La caméra conserve son accompag
 - PROP-02 — Valise cabine de Zayd.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -302,7 +320,10 @@ Locked-off static — identifiant static. Caméra fixe, composition lisible de l
 - PROP-03 — Petit robot mécanique de Li.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -327,7 +348,10 @@ Locked-off static — identifiant static. La caméra ne bouge pas ; seule la pos
 - PROP-03 — Petit robot mécanique de Li.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -356,7 +380,10 @@ Pull-back reveal — identifiant pull-back-reveal. La caméra recule depuis un c
 - Mathis, Li Wei et Zayd sont décrits depuis la bible des personnages.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -381,7 +408,10 @@ Pull-back reveal — identifiant pull-back-reveal. Le recul de caméra se termin
 - La porte de réserve est décrite depuis LOC-02 — Réserve de la Plata.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -410,7 +440,10 @@ Pull-back reveal — identifiant pull-back-reveal. La caméra recule depuis l'in
 - Li Wei, Mathis et Zayd sont décrits depuis la bible des personnages.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -435,7 +468,10 @@ Pull-back reveal — identifiant pull-back-reveal. Le recul se termine sur une v
 - Li Wei, Mathis et Zayd sont décrits depuis la bible des personnages.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -464,7 +500,10 @@ Handheld documentary — identifiant handheld. Léger mouvement caméra naturel 
 - PROP-04 — Serrure de la réserve.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -489,7 +528,10 @@ Handheld documentary — identifiant handheld. Petit réajustement caméra natur
 - PROP-04 — Serrure de la réserve.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -518,7 +560,10 @@ Crash zoom — identifiant crash-zoom. La caméra avance rapidement vers Dylan e
 - PROP-05 — Carte manuscrite de Tony.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -543,7 +588,10 @@ Crash zoom — identifiant crash-zoom. La caméra termine son mouvement en arriv
 - PROP-05 — Carte manuscrite de Tony.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -572,7 +620,10 @@ Crash zoom — identifiant crash-zoom. La caméra avance rapidement vers le grou
 - PROP-05 — Carte manuscrite de Tony.
 ```
 
-**Match previous frame (same character drawing, palette and style):** false
+**Match previous frame (same character drawing, palette and style):**
+```text
+false
+```
 
 **Prompt image:** 
 ```text
@@ -597,7 +648,10 @@ Crash zoom — identifiant crash-zoom. Le mouvement se termine sur Dylan et son 
 - PROP-05 — Carte manuscrite de Tony.
 ```
 
-**Match previous frame (same character drawing, palette and style):** true
+**Match previous frame (same character drawing, palette and style):**
+```text
+true
+```
 
 **Prompt image:** 
 ```text
@@ -620,12 +674,17 @@ Chaque shot est un clip vidéo autonome. Il relie les images-clés de début et 
 Dylan est seul dans le QG. Il consulte son téléphone, reçoit ou déclenche l'appel de groupe, relève lentement les yeux vers la caméra et prononce son message avec urgence contenue. Il garde le téléphone dans la main droite. Le plan commence sur sa concentration et se termine sur son regard déterminé. Aucun autre personnage n'entre dans le champ.
 ```
 
-**Film technique:** Locked-off static — identifiant static. Plan fixe, sans travelling ni coupe. L'intensité vient uniquement du jeu du visage et du geste du pouce.
+**Film technique:**
+```text
+Locked-off static — identifiant static. Plan fixe, sans travelling ni coupe. L'intensité vient uniquement du jeu du visage et du geste du pouce.
+```
 
 **References (character, product — max 3):**
+```text
 - Dylan — référence personnage Flow.
 - LOC-01 — QG du groupe.
 - PROP-01 — Téléphone personnel.
+```
 
 
 **Dialogue :** Dylan : « Les gars… on a un, très, très gros problème. » puis « Rendez-vous au QG. Maintenant. »
@@ -639,12 +698,17 @@ Dylan est seul dans le QG. Il consulte son téléphone, reçoit ou déclenche l'
 Mathis est seul dans son salon. Son téléphone vibre ; il baisse les yeux pour lire la notification, réagit avec une curiosité amusée, se lève du canapé, attrape sa veste et se tourne vers la sortie. Le mouvement doit être fluide et naturel. Ne montrer personne d'autre.
 ```
 
-**Film technique:** Locked-off static — identifiant static. Caméra fixe ; Mathis effectue toute l'action dans le cadre.
+**Film technique:**
+```text
+Locked-off static — identifiant static. Caméra fixe ; Mathis effectue toute l'action dans le cadre.
+```
 
 **References (character, product — max 3):**
+```text
 - Mathis — référence personnage Flow.
 - LOC-03 — Salon de Mathis.
 - PROP-01 — Téléphone personnel.
+```
 
 
 **Dialogue :** Mathis, à lui-même : « Une urgence ? J'espère que c'est intéressant. »
@@ -658,12 +722,17 @@ Mathis est seul dans son salon. Son téléphone vibre ; il baisse les yeux pour 
 Zayd marche seul dans la zone d'arrivée vide de l'aéroport avec sa valise cabine. La caméra l'accompagne latéralement. Son téléphone vibre ; il s'arrête, consulte l'écran, marque une courte pause puis pivote pour repartir dans l'autre sens. Garder exactement le même terminal, la même valise et la même tenue pendant tout le plan. Aucun voyageur ni employé.
 ```
 
-**Film technique:** Lateral tracking — identifiant lateral-track. Travelling latéral accompagnant Zayd, puis ralentissement et arrêt avec lui.
+**Film technique:**
+```text
+Lateral tracking — identifiant lateral-track. Travelling latéral accompagnant Zayd, puis ralentissement et arrêt avec lui.
+```
 
 **References (character, product — max 3):**
+```text
 - Zayd — référence personnage Flow.
 - LOC-04 — Aéroport de Paris, zone d'arrivée.
 - PROP-02 — Valise cabine de Zayd.
+```
 
 
 **Dialogue :** Zayd : « Maintenant ? Je viens à peine d'arriver… »
@@ -677,12 +746,17 @@ Zayd marche seul dans la zone d'arrivée vide de l'aéroport avec sa valise cabi
 Li travaille seul sur son établi, près d'un petit robot mécanique immobile. Son téléphone vibre. Il s'interrompt, prend le téléphone, lit le message et esquisse un sourire sarcastique. Le robot reste strictement immobile et ne devient jamais un personnage. Li finit le plan en quittant son établi ou en se préparant à partir, sans changement de décor.
 ```
 
-**Film technique:** Locked-off static — identifiant static. Caméra fixe ; l'action est portée par Li et le téléphone.
+**Film technique:**
+```text
+Locked-off static — identifiant static. Caméra fixe ; l'action est portée par Li et le téléphone.
+```
 
 **References (character, product — max 3):**
+```text
 - Li Wei — référence personnage Flow.
 - LOC-05 — Atelier technologique de Li.
 - PROP-03 — Petit robot mécanique de Li.
+```
 
 
 **Dialogue :** Li Wei : « Si Dylan dit “très gros problème”, c'est rarement un petit problème. »
@@ -696,12 +770,17 @@ Li travaille seul sur son établi, près d'un petit robot mécanique immobile. S
 Les quatre amis sont réunis dans le QG : Dylan, Li Wei, Mathis et Zayd, exactement une fois chacun. Ils échangent quelques regards et les répliques prévues. Dylan reste sérieux, se détourne du groupe et commence à marcher vers la porte de la réserve. Les trois autres suivent son mouvement du regard puis se préparent à le suivre. Aucun autre personnage dans le décor ou sur les écrans.
 ```
 
-**Film technique:** Pull-back reveal — identifiant pull-back-reveal. La caméra recule progressivement pour révéler la disposition du QG et les quatre amis, puis laisse Dylan guider le regard vers la réserve.
+**Film technique:**
+```text
+Pull-back reveal — identifiant pull-back-reveal. La caméra recule progressivement pour révéler la disposition du QG et les quatre amis, puis laisse Dylan guider le regard vers la réserve.
+```
 
 **References (character, product — max 3):**
+```text
 - Dylan — référence personnage Flow.
 - LOC-01 — QG du groupe.
 - Les trois autres garçons sont décrits depuis la bible des personnages.
+```
 
 
 **Dialogues :**
@@ -718,12 +797,17 @@ Les quatre amis sont réunis dans le QG : Dylan, Li Wei, Mathis et Zayd, exactem
 Depuis l'intérieur de la réserve, Dylan ouvre la porte. Li Wei, Mathis et Zayd apparaissent derrière lui : exactement quatre personnages au total, sans doublon. La caméra recule pour révéler progressivement les étagères, boîtes et compartiments entièrement vides. Les quatre découvrent l'ampleur du vol et réagissent. La Plata est un ensemble de biens accumulés, pas un objet unique ; montrer clairement que tous les rangements ont été vidés.
 ```
 
-**Film technique:** Pull-back reveal — identifiant pull-back-reveal. Recul continu depuis la porte vers une vue large de la réserve vidée.
+**Film technique:**
+```text
+Pull-back reveal — identifiant pull-back-reveal. Recul continu depuis la porte vers une vue large de la réserve vidée.
+```
 
 **References (character, product — max 3):**
+```text
 - Dylan — référence personnage Flow.
 - LOC-02 — Réserve de la Plata.
 - Les trois autres garçons sont décrits depuis la bible des personnages.
+```
 
 
 **Dialogues :**
@@ -740,12 +824,17 @@ Depuis l'intérieur de la réserve, Dylan ouvre la porte. Li Wei, Mathis et Zayd
 Dans la réserve vide, Li Wei s'accroupit et examine attentivement la serrure. La caméra adopte une légère instabilité documentaire et se rapproche subtilement de son inspection. Li constate que la serrure n'a pas été forcée. Mathis lui demande si le voleur avait la clé ; Li relève les yeux et répond qu'il connaissait peut-être exactement la manière d'entrer. À la fin du plan, Dylan remarque une petite carte posée sur une étagère vide. Les quatre amis restent les seuls personnages présents.
 ```
 
-**Film technique:** Handheld documentary — identifiant handheld. Caméra portée discrète, micro-ajustements naturels, sans secousse excessive ni coupe.
+**Film technique:**
+```text
+Handheld documentary — identifiant handheld. Caméra portée discrète, micro-ajustements naturels, sans secousse excessive ni coupe.
+```
 
 **References (character, product — max 3):**
+```text
 - Li Wei — référence personnage Flow.
 - LOC-02 — Réserve de la Plata.
 - PROP-04 — Serrure de la réserve.
+```
 
 
 **Dialogues :**
@@ -762,12 +851,17 @@ Dans la réserve vide, Li Wei s'accroupit et examine attentivement la serrure. L
 Dylan remarque une petite carte sur une étagère vide. Il tourne la tête vers elle, la saisit et la présente à la caméra. La caméra effectue un rapprochement rapide jusqu'à un insert où seule la main de Dylan et la carte sont visibles. La carte porte exactement le texte « Toujours un coup d'avance. — T ». La voix de Zayd prononce « T… Tony ? » hors champ. Ne pas montrer Tony ni ajouter de symbole ou de signature.
 ```
 
-**Film technique:** Crash zoom — identifiant crash-zoom. Rapprochement rapide et contrôlé de Dylan vers la carte, puis maintien de l'insert parfaitement lisible.
+**Film technique:**
+```text
+Crash zoom — identifiant crash-zoom. Rapprochement rapide et contrôlé de Dylan vers la carte, puis maintien de l'insert parfaitement lisible.
+```
 
 **References (character, product — max 3):**
+```text
 - Dylan — référence personnage Flow.
 - LOC-02 — Réserve de la Plata.
 - PROP-05 — Carte manuscrite de Tony.
+```
 
 
 **Dialogue :** Zayd, hors champ : « T… Tony ? »
@@ -781,12 +875,17 @@ Dylan remarque une petite carte sur une étagère vide. Il tourne la tête vers 
 Retour sur le groupe dans la réserve. Exactement quatre personnages visibles : Dylan, Li Wei, Mathis et Zayd. Dylan tient toujours la carte et annonce froidement que Tony est responsable. Mathis réagit avec incrédulité et demande s'il s'agit bien de leur ancien Tony. Li observe la carte en silence ; Zayd paraît inquiet. Terminer sur le regard déterminé de Dylan et un bref silence. Tony ne doit pas apparaître physiquement.
 ```
 
-**Film technique:** Crash zoom — identifiant crash-zoom. Rapprochement rapide vers le groupe, puis resserrement final sur Dylan au moment de la révélation.
+**Film technique:**
+```text
+Crash zoom — identifiant crash-zoom. Rapprochement rapide vers le groupe, puis resserrement final sur Dylan au moment de la révélation.
+```
 
 **References (character, product — max 3):**
+```text
 - Dylan — référence personnage Flow.
 - LOC-02 — Réserve de la Plata.
 - PROP-05 — Carte manuscrite de Tony.
+```
 
 
 **Dialogues :**
