@@ -23,6 +23,14 @@ Des villes comme Paris, Shanghai, Yaoundé, Tokyo, Riyad ou Singapour peuvent se
 
 Les quatre amis vivent aujourd'hui dans des pays différents. Leurs lieux de résidence actuels ne sont pas un élément central du concept.
 
+## La Plata
+
+La **Plata** n'est pas un objet unique ni un héritage conventionnel. Elle désigne l'ensemble des trésors, richesses et butins que les quatre amis ont accumulés au fil des années grâce à leurs aventures, leurs coups et leurs différentes magouilles.
+
+C'est leur trésor commun : la somme matérielle de leur passé partagé et de toutes les opérations qu'ils ont menées ensemble.
+
+Dans la saison 1, Tony, un ancien membre de leur bande devenu rival, dérobe la totalité de la Plata. Les quatre amis doivent absolument la récupérer.
+
 ## Ton et genres
 
 La série peut explorer plusieurs genres selon les épisodes : comédie, aventure, business, lifestyle, drame, mystère, amitié et relations.
