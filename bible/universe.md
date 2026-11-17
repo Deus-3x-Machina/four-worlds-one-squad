@@ -31,6 +31,8 @@ C'est leur trésor commun : la somme matérielle de leur passé partagé et de t
 
 Dans la saison 1, Tony, un ancien membre de leur bande devenu rival, dérobe la totalité de la Plata. Les quatre amis doivent absolument la récupérer.
 
+Tony et Dylan étaient les deux cerveaux de la bande. Leur intelligence, leur ambition et leur goût de la stratégie ont nourri une compétition permanente. Cette rivalité a progressivement pris le dessus sur leur complicité et a fini par détruire leur amitié. Après la rupture, Tony a décidé de monter son propre clan avec de nouveaux membres. Il veut désormais prouver qu'il est meilleur que Dylan. Le vol de la Plata devient ainsi autant un défi personnel lancé à Dylan qu'une attaque contre le groupe.
+
 ## Ton et genres
 
 La série peut explorer plusieurs genres selon les épisodes : comédie, aventure, business, lifestyle, drame, mystère, amitié et relations.
