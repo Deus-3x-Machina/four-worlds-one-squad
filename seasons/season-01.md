@@ -12,13 +12,22 @@
 - **Nombre d'épisodes :** 8
 - **Lieu principal :** Paris
 - **Format de la série :** épisodes courts de 1 à 2 minutes, avec une durée habituelle d'environ 90 secondes.
-- **Antagoniste de la saison :** Tony, ancien membre de la bande.
+- **Antagoniste de la saison :** Tony, ancien membre de la bande, désormais à la tête d'un clan composé de trois hommes de main.
 
 ## Définition de la Plata
 
 La Plata désigne l'ensemble des trésors, richesses et butins que les quatre amis ont accumulés au fil des années grâce à leurs aventures et à leurs différentes magouilles. Ce n'est ni un objet unique ni un héritage conventionnel : c'est leur trésor commun, constitué progressivement au cours de leur histoire.
 
 Tony dérobe la totalité de la Plata. Les quatre amis doivent la récupérer.
+
+
+## Tony et son clan
+
+Tony a constitué son propre clan après sa rupture avec la bande. Il est accompagné de **trois hommes de main**, tous des garçons/enfants de cet univers. Le clan compte donc quatre membres au total : Tony et trois exécutants.
+
+Tony est le seul cerveau du groupe. Il manipule ses trois hommes de main et les utilise pour servir ses ambitions. Ils assurent principalement l'intimidation, la présence physique et l'exécution de ses consignes ; ils ne sont pas présentés comme trois stratèges concurrents de Tony.
+
+Leurs personnalités secondaires et leurs histoires individuelles ne sont pas développées à ce stade. Leur identité visuelle est fixée dans [la bible des personnages](../bible/characters.md) afin qu'ils restent reconnaissables dans les scènes et les épisodes.
 
 ## Synopsis général
 
