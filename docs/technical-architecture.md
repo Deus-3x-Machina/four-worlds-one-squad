@@ -63,13 +63,17 @@ Queue and status log for video generation and post-production jobs, including pr
 
 ### Video generation: Google Flow
 
-Google Flow is the preferred creative environment, but Google currently presents it as a web product and no official public Flow API integration is configured in this n8n instance.
+Google Flow is currently documented as a web product. Google's official help documents browser-based Tools and credit usage, but no public Google Flow REST API or SDK is documented. The native n8n Google Gemini video node is a separate Gemini API integration and does not invoke the Flow website or spend Flow subscription credits.
 
 References:
-- Official product: https://labs.google/fx/tools/flow
+- Official Flow product: https://flow.google/
+- Official Google Flow Tools help: https://support.google.com/labs/answer/17104535
 - Third-party REST wrapper (not a Google product): https://github.com/useapi/google-flow-api
+- Third-party wrapper documentation: https://useapi.net/docs/api-google-flow-v1
 
-The video-generation workflow therefore records jobs as `blocked_external_adapter`. Do not activate an external paid wrapper or replace Flow with a different provider without an explicit decision.
+A third-party service such as useapi.net advertises REST access by connecting a Google Flow account. This is not an official Google API; it requires a separate service token and account connection and may depend on private interfaces that Google can change. No account, token or paid third-party integration has been connected.
+
+The video-generation workflow therefore records jobs as `blocked_external_adapter`. Keep Google Flow as the intended provider until an explicit decision authorizes a third-party adapter, or a switch to Google's official Veo API (which has separate API billing and does not use Flow credits).
 
 ### Post-production: FFmpeg
 
