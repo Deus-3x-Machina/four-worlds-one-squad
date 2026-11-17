@@ -23,6 +23,10 @@ La série est centrée sur les quatre garçons. Les personnages secondaires inte
 - [Règles narratives](bible/narrative-rules.md)
 - [Identité visuelle](bible/visual-identity.md)
 
+## Saisons
+
+- [Saison 1 — La Plata](seasons/season-01.md)
+
 ## Architecture technique
 
 - [Architecture d'automatisation n8n](docs/technical-architecture.md)
