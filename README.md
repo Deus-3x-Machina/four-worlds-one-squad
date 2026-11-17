@@ -1,6 +1,6 @@
 # FOUR WORLDS, ONE SQUAD
 
-Bible créative et référentiel de production de la série animée **FOUR WORLDS, ONE SQUAD**.
+Bible créative et référentiel de production de la série **FOUR WORLDS, ONE SQUAD**.
 
 ## Le projet
 
@@ -12,8 +12,8 @@ La série est centrée sur les quatre garçons. Les personnages secondaires inte
 
 - Épisodes courts de 1 à 2 minutes maximum.
 - Format vertical 9:16, pensé pour TikTok, Instagram Reels et YouTube Shorts.
-- Cible de durée habituelle : 60 à 90 secondes.
-- Univers visuel envisagé : photoréaliste et cinématographique.
+- Cible de durée habituelle : 90 secondes.
+- Univers visuel : photoréaliste et cinématographique.
 
 ## Bible créative
 
@@ -23,10 +23,12 @@ La série est centrée sur les quatre garçons. Les personnages secondaires inte
 - [Règles narratives](bible/narrative-rules.md)
 - [Identité visuelle](bible/visual-identity.md)
 
+## Architecture technique
+
+- [Architecture d'automatisation n8n](docs/technical-architecture.md)
+
+La première architecture modulaire est en place dans l'instance n8n existante. Les workflows de scénario et de découpage des scènes ont été testés. Les intégrations Google Flow, FFmpeg et stockage média restent à finaliser.
+
 ## Statut des décisions
 
 Les éléments explicitement décidés sont considérés comme validés. Les propositions non confirmées sont signalées comme **à valider** et ne doivent pas être traitées comme du canon.
-
-## Production
-
-Google Flow est l'outil de génération vidéo envisagé. L'automatisation de la production avec n8n est une piste ultérieure, à mettre en place lorsque la bible créative sera suffisamment stabilisée.
