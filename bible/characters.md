@@ -32,8 +32,11 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 
 ### Identité vocale
 
-- Voix Flow : **Schedar**.
-- Cette voix est la référence vocale attribuée à Dylan pour ses dialogues et prises de parole dans la série.
+- Voix Flow : **Schedar** (voix attribuée et validée).
+- Timbre : voix de garçon de 11 ans, médium, claire et posée, sans chercher à sonner adulte.
+- Débit : maîtrisé et régulier ; Dylan ralentit légèrement lorsqu'il expose un plan ou cherche à convaincre.
+- Interprétation : assurance naturelle, articulation nette et intonation persuasive. Il sait se montrer chaleureux avec ses amis, mais peut prendre un ton plus calculateur et retenu lorsqu'il dissimule une partie de ses intentions.
+- Nuance : éviter une voix constamment froide ou arrogante. Son affection pour ses amis doit rester audible dans les moments sincères.
 
 ## Li Wei
 
@@ -42,6 +45,14 @@ La série est construite autour de quatre garçons. Les profils ci-dessous repre
 - Rôle : hacker et spécialiste de la technologie.
 - Traits dominants : intelligent, discret, curieux et sarcastique.
 - Compétences : programmation, cybersécurité, intelligence artificielle et résolution de problèmes techniques.
+
+### Identité vocale
+
+- Direction vocale : voix de garçon de 10 ans, plutôt légère et discrète, avec un timbre clair.
+- Débit : précis et mesuré ; Li parle généralement sans se presser et articule soigneusement les termes techniques.
+- Interprétation : calme, observateur et légèrement ironique. Son sarcasme passe surtout par de petites inflexions sèches, des silences et des réactions retenues plutôt que par des effets comiques appuyés.
+- Nuance : lorsqu'il est absorbé par un problème technique, sa voix devient plus concentrée et rapide, sans perdre sa précision.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
 
 ### Référence visuelle
 
@@ -71,6 +82,14 @@ Cette description constitue la base de son design. La référence visuelle Flow 
 - Fonction dans le groupe : apporte une grande partie de l'humour et détend l'atmosphère, mais ses blagues et ses initiatives peuvent aussi compliquer les situations. Il peut devenir rappeur, salarié, livreur, agent immobilier ou se retrouver sans emploi. Le comique vient aussi de ses changements de cap et des conséquences de ses décisions.
 - Important : Mathis n'a pas de profession stable et ne doit pas être défini comme un PDG permanent.
 
+### Identité vocale
+
+- Direction vocale : voix de garçon de 12 ans, expressive et énergique, avec un timbre clair et vivant.
+- Débit : naturellement rapide, parfois précipité lorsqu'il s'emballe ou improvise.
+- Interprétation : enjouée, spontanée et malicieuse. Mathis varie beaucoup son intonation, rebondit sur les répliques des autres et peut lancer une blague même au mauvais moment.
+- Nuance : conserver une voix d'enfant crédible. Ne pas transformer chaque phrase en gag : Mathis sait aussi être sérieux, inquiet ou touchant lorsque la situation l'exige.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
+
 ### Référence visuelle
 
 - Carnation : peau blanche.
@@ -99,6 +118,14 @@ Cette description est la base de référence choisie pour créer Mathis dans Flo
 - Nuance : malgré son côté privilégié et parfois déconnecté, il est généreux et attaché à ses amis. Sa naïveté n'en fait pas quelqu'un de stupide.
 - Il peut parfois être impliqué dans les affaires de son père.
 - Important : Zayd est saoudien ; son père est émirati.
+
+### Identité vocale
+
+- Direction vocale : voix de garçon de 11 ans, chaleureuse, souple et naturellement assurée.
+- Débit : plutôt fluide et détendu ; Zayd prend parfois le temps d'appuyer un mot lorsqu'il annonce une idée qui lui paraît évidente.
+- Interprétation : sociable, généreuse et spontanée. Une légère assurance de privilégié peut apparaître dans ses propositions, sans rendre sa voix hautaine.
+- Nuance : sa naïveté doit se traduire par une sincérité désarmante et un étonnement authentique, jamais par une voix infantilisée ou stupide.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
 
 ### Référence visuelle
 
@@ -131,6 +158,14 @@ Tony et ses trois hommes de main forment le groupe antagoniste de la saison 1. T
 - Personnalité utile à l'histoire : calculateur, compétitif, sûr de son intelligence et manipulateur. Il sait obtenir de ses trois hommes de main ce qu'il veut en jouant sur leurs réactions et leur loyauté. Il les utilise pour servir ses ambitions et ne leur révèle pas nécessairement tous ses plans.
 - Fonction : Tony conçoit les coups et donne les directives ; ses trois hommes de main assurent l'intimidation et l'exécution sur le terrain.
 
+### Identité vocale
+
+- Direction vocale : voix de garçon de 11 ans, médium et nette, calme et contrôlée.
+- Débit : lent à modéré, avec des pauses volontaires. Tony ne se précipite presque jamais ; il laisse parfois un silence avant une remarque qui déstabilise son interlocuteur.
+- Interprétation : froide en apparence, précise et compétitive. Son assurance doit être perceptible sans qu'il hausse la voix. Lorsqu'il provoque Dylan, il privilégie le calme, l'ironie et la maîtrise plutôt que la colère.
+- Nuance : Tony reste clairement un enfant. Ne pas lui donner une voix grave d'adulte ni une interprétation de méchant caricatural.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
+
 **Design visuel de référence — choix de conception :**
 - Silhouette fine et nerveuse, posture droite et contrôlée.
 - Peau mate, visage fin, pommettes légèrement marquées.
@@ -150,6 +185,13 @@ Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à dévelo
 
 #### JB — Le colosse
 
+**Identité vocale**
+- Direction vocale : voix de garçon, la plus ample et la plus posée du trio, tout en conservant un timbre et une hauteur crédibles pour un enfant.
+- Débit : lent, avec des phrases courtes et peu de mots.
+- Interprétation : présence tranquille, ton direct et peu démonstratif. Il n'a pas besoin de crier pour paraître intimidant.
+- Nuance : éviter une voix artificiellement grave ou adulte.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
+
 - Le plus grand et le plus large des trois, avec une carrure robuste mais crédible pour un enfant.
 - Peau foncée, visage large, sourcils épais.
 - Cheveux noirs très courts.
@@ -159,6 +201,13 @@ Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à dévelo
 
 #### Moreau — Le nerveux
 
+**Identité vocale**
+- Direction vocale : voix de garçon vive, plus aiguë et tendue que celle de JB, sans caricature.
+- Débit : rapide, parfois saccadé ; il coupe parfois ses phrases ou réagit avant la fin de celles des autres.
+- Interprétation : impatiente, nerveuse et impulsive. Les émotions passent rapidement dans sa voix.
+- Nuance : garder une diction intelligible et une voix d'enfant naturelle.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
+
 - Plus petit et plus sec que le colosse, silhouette compacte et très mobile.
 - Peau claire, cheveux châtains en bataille, yeux noisette.
 - Vêtement signature : veste de survêtement rouge vif, t-shirt blanc, pantalon noir fuselé et sneakers rouges et blanches.
@@ -167,6 +216,13 @@ Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à dévelo
 - Attitude visuelle : posture penchée vers l'avant, gestes brusques, expression impatiente et sourcils froncés.
 
 #### Jacques — Le silencieux
+
+**Identité vocale**
+- Direction vocale : voix de garçon discrète, plutôt douce et retenue, avec un timbre sobre.
+- Débit : lent et régulier ; il parle peu et ne gaspille pas ses mots.
+- Interprétation : calme, observatrice et impassible. Ses rares répliques doivent avoir du poids grâce au choix des mots et à leur précision, pas à un effet dramatique forcé.
+- Nuance : le silence est sa caractéristique principale ; ne pas le rendre systématiquement mystérieux ou menaçant.
+- Voix Flow : à sélectionner et valider ; aucun identifiant vocal n'est encore attribué.
 
 - Taille intermédiaire, silhouette mince et longiligne.
 - Peau brune, cheveux noirs bouclés courts, yeux sombres.
@@ -183,6 +239,15 @@ Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à dévelo
 - Dans une scène où les quatre apparaissent ensemble, il doit être évident que Tony dirige et que les trois autres exécutent.
 - Les vêtements sont sans logos de marques visibles.
 - Les quatre designs doivent rester cohérents avec l'univers : personnages enfants de 0 à 12 ans, proportions juvéniles, jamais de musculature ou de traits d'adultes.
+
+
+## Direction vocale générale
+
+- Tous les personnages principaux et antagonistes sont des enfants : les voix doivent rester juvéniles et crédibles pour leur âge, jamais adultes.
+- Les dialogues sont interprétés en français naturel et intelligible. Éviter les accents caricaturaux fondés sur la nationalité ou l'origine des personnages.
+- Préserver une identité vocale stable d'une scène à l'autre : timbre, hauteur, débit, articulation et énergie ne changent pas sans raison narrative.
+- Les indications ci-dessus définissent la direction d'interprétation ; elles ne constituent pas toutes des voix Flow déjà sélectionnées. Seule la voix **Schedar** de Dylan est actuellement attribuée. Les autres identifiants seront ajoutés après écoute et validation.
+
 
 ## Noms de famille — à valider
 
