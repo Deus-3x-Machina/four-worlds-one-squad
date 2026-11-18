@@ -144,9 +144,11 @@ Tony et ses trois hommes de main forment le groupe antagoniste de la saison 1. T
 
 ### Les trois hommes de main
 
+Les noms des trois hommes de main sont validés : **Jacques** est le Silencieux, **Moreau** est le Nerveux et **JB** est le Colosse. Ces prénoms doivent être utilisés dans les scénarios, les dialogues, les prompts et les références aux personnages.
+
 Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à développer. Leur priorité actuelle est d'être immédiatement reconnaissables à l'image, y compris dans des plans rapides ou des scènes de groupe. Ils sont tous des garçons/enfants, jamais des adultes.
 
-#### 1. Le colosse
+#### JB — Le colosse
 
 - Le plus grand et le plus large des trois, avec une carrure robuste mais crédible pour un enfant.
 - Peau foncée, visage large, sourcils épais.
@@ -155,7 +157,7 @@ Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à dévelo
 - Palette dominante : orange brûlé, noir et gris.
 - Attitude visuelle : épaules larges, bras croisés ou mains dans les poches ; il prend naturellement beaucoup de place dans le cadre.
 
-#### 2. Le nerveux
+#### Moreau — Le nerveux
 
 - Plus petit et plus sec que le colosse, silhouette compacte et très mobile.
 - Peau claire, cheveux châtains en bataille, yeux noisette.
@@ -164,7 +166,7 @@ Ils n'ont pas encore d'arcs personnels ni de profondeur psychologique à dévelo
 - Palette dominante : rouge, blanc et noir.
 - Attitude visuelle : posture penchée vers l'avant, gestes brusques, expression impatiente et sourcils froncés.
 
-#### 3. Le silencieux
+#### Jacques — Le silencieux
 
 - Taille intermédiaire, silhouette mince et longiligne.
 - Peau brune, cheveux noirs bouclés courts, yeux sombres.
