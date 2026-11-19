@@ -154,6 +154,8 @@ Un seul enfant visible : Dylan. Reproduire exactement son apparence depuis sa r�
 **What this frame shows:** 
 ```text
 Même emplacement et même axe caméra. Dylan a relevé la tête ; son téléphone est toujours dans sa main droite. Il regarde droit devant lui avec une expression sérieuse et déterminée. Son pouce vient de toucher l'écran pour lancer l'appel. Exactement 1 personnage visible : Dylan.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente.
 ```
 
 **Film technique:** 
@@ -170,12 +172,14 @@ Locked-off static — identifiant static. Même caméra fixe que la frame 01 ; s
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Reprendre le même Dylan, le même cadrage, la même lumière, le même décor et la même palette que la frame 01. Dylan tient toujours son téléphone dans la main droite, mais relève les yeux avec une expression urgente. Son pouce touche l'écran. Un seul personnage visible. Ne rien modifier à son design.
+Image fixe autonome, verticale 9:16. Même emplacement et même axe caméra. Dylan a relevé la tête ; son téléphone est toujours dans sa main droite. Il regarde droit devant lui avec une expression sérieuse et déterminée. Son pouce vient de toucher l'écran pour lancer l'appel. Exactement 1 personnage visible : Dylan.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -213,7 +217,9 @@ Exactement un enfant visible : Mathis, conforme à sa référence Flow. Cheveux 
 #### Frame 04 — Fin : Mathis se met en route (00:18)
 **What this frame shows:** 
 ```text
-Même salon et même axe. Mathis est debout devant le canapé, sa veste à la main et son téléphone dans l'autre. Il tourne son corps vers la sortie située à droite du cadre. Exactement 1 personnage visible : Mathis.
+Dans un petit salon contemporain et même axe. Mathis est debout devant le canapé, sa veste à la main et son téléphone dans l'autre. Il tourne son corps vers la sortie située à droite du cadre. Exactement 1 personnage visible : Mathis.
+
+Apparence des personnages visibles : Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré.
 ```
 
 **Film technique:** 
@@ -230,12 +236,14 @@ Locked-off static — identifiant static. La caméra reste fixe ; le changement 
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Continuer directement depuis la frame 03. Même Mathis, mêmes vêtements, même salon, même lumière et même caméra. Mathis est maintenant debout devant le canapé, tient sa veste et son téléphone et se tourne vers la sortie à droite. Un seul personnage visible. Aucun personnage supplémentaire.
+Image fixe autonome, verticale 9:16. Dans un petit salon contemporain et même axe. Mathis est debout devant le canapé, sa veste à la main et son téléphone dans l'autre. Il tourne son corps vers la sortie située à droite du cadre. Exactement 1 personnage visible : Mathis.
+
+Apparence des personnages visibles : Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -273,7 +281,9 @@ Exactement un enfant visible : Zayd, fidèle à sa référence Flow, peau brun d
 #### Frame 06 — Fin : Zayd fait demi-tour (00:26)
 **What this frame shows:** 
 ```text
-Même terminal, même lumière et même valise. Zayd s'est arrêté ; il tient maintenant son téléphone devant lui et regarde l'écran. Son buste commence à pivoter vers la droite, comme s'il allait repartir dans l'autre sens. Exactement 1 personnage visible : Zayd.
+Dans une zone d'arrivée d'aéroport parisien moderne et vide, même lumière et même valise. Zayd s'est arrêté ; il tient maintenant son téléphone devant lui et regarde l'écran. Son buste commence à pivoter vers la droite, comme s'il allait repartir dans l'autre sens. Exactement 1 personnage visible : Zayd.
+
+Apparence des personnages visibles : Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret.
 ```
 
 **Film technique:** 
@@ -290,12 +300,14 @@ Lateral tracking — identifiant lateral-track. La caméra conserve son accompag
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Continuer depuis la frame 05. Même Zayd, même terminal, même valise, même lumière et même palette. Zayd est arrêté, regarde son téléphone et commence à tourner son corps vers la droite. Un seul enfant visible. Aucun autre être humain ni reflet.
+Image fixe autonome, verticale 9:16. Dans une zone d'arrivée d'aéroport parisien moderne et vide, même lumière et même valise. Zayd s'est arrêté ; il tient maintenant son téléphone devant lui et regarde l'écran. Son buste commence à pivoter vers la droite, comme s'il allait repartir dans l'autre sens. Exactement 1 personnage visible : Zayd.
+
+Apparence des personnages visibles : Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -333,7 +345,9 @@ Exactement un enfant visible : Li Wei, conforme à sa référence Flow : silhoue
 #### Frame 08 — Fin : Li prend son téléphone (00:34)
 **What this frame shows:** 
 ```text
-Même atelier et même cadrage. Li s'est redressé ; il tient son téléphone près du visage et regarde l'écran avec un petit sourire sarcastique. Le petit robot reste exactement au même endroit sur l'établi. Exactement 1 personnage visible : Li Wei.
+Dans un atelier technologique compact et même cadrage. Li s'est redressé ; il tient son téléphone près du visage et regarde l'écran avec un petit sourire sarcastique. Le petit robot reste exactement au même endroit sur l'établi. Exactement 1 personnage visible : Li Wei.
+
+Apparence des personnages visibles : Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil.
 ```
 
 **Film technique:** 
@@ -350,12 +364,14 @@ Locked-off static — identifiant static. La caméra ne bouge pas ; seule la pos
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Même Li, même atelier, même établi et même robot que dans la frame 07. Li est redressé et regarde son téléphone avec une expression légèrement sarcastique. Le robot reste immobile, sans visage ni mouvement. Un seul personnage visible.
+Image fixe autonome, verticale 9:16. Dans un atelier technologique compact et même cadrage. Li s'est redressé ; il tient son téléphone près du visage et regarde l'écran avec un petit sourire sarcastique. Le petit robot reste exactement au même endroit sur l'établi. Exactement 1 personnage visible : Li Wei.
+
+Apparence des personnages visibles : Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -393,7 +409,9 @@ EXACTEMENT quatre enfants visibles, une seule occurrence de chacun : Dylan, Li W
 #### Frame 10 — Fin : Dylan ouvre la voie (00:44)
 **What this frame shows:** 
 ```text
-Même QG, même disposition générale. Les quatre garçons sont toujours visibles et chacun apparaît une seule fois. Dylan a quitté sa position près de la réserve et marche vers sa porte ; les trois autres se tournent vers lui et s'apprêtent à le suivre. Exactement 4 personnages visibles : Dylan, Li Wei, Mathis et Zayd.
+Dans le QG compact du groupe à Paris, même disposition générale. Les quatre garçons sont toujours visibles et chacun apparaît une seule fois. Dylan a quitté sa position près de la réserve et marche vers sa porte ; les trois autres se tournent vers lui et s'apprêtent à le suivre. Exactement 4 personnages visibles : Dylan, Li Wei, Mathis et Zayd.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil.
 ```
 
 **Film technique:** 
@@ -410,12 +428,14 @@ Pull-back reveal — identifiant pull-back-reveal. Le recul de caméra se termin
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Continuer depuis la frame 09. Même QG, même lumière, même table, mêmes positions relatives et mêmes designs. EXACTEMENT quatre personnages visibles : Dylan, Li Wei, Mathis et Zayd, chacun une seule fois. Dylan marche vers la porte de la réserve ; Li, Mathis et Zayd se tournent vers lui pour le suivre. Li est décrit fidèlement depuis la bible. Aucun autre humain, clone, silhouette ou reflet.
+Image fixe autonome, verticale 9:16. Dans le QG compact du groupe à Paris, même disposition générale. Les quatre garçons sont toujours visibles et chacun apparaît une seule fois. Dylan a quitté sa position près de la réserve et marche vers sa porte ; les trois autres se tournent vers lui et s'apprêtent à le suivre. Exactement 4 personnages visibles : Dylan, Li Wei, Mathis et Zayd.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -453,7 +473,7 @@ Caméra située à l'intérieur d'une réserve attenante au QG. EXACTEMENT quatr
 #### Frame 12 — Fin : la réserve entièrement vide (00:58)
 **What this frame shows:** 
 ```text
-Même réserve et même axe. La porte est maintenant largement ouverte. Les quatre amis sont visibles dans l'encadrement et regardent les étagères vides. On distingue plusieurs emplacements de rangement, boîtes et compartiments désormais vides ; aucun coffre ou objet unique ne représente la Plata. Exactement 4 personnages visibles.
+Dans la réserve attenante au QG et même axe. La porte est maintenant largement ouverte. Les quatre amis sont visibles dans l'encadrement et regardent les étagères vides. On distingue plusieurs emplacements de rangement, boîtes et compartiments désormais vides ; aucun coffre ou objet unique ne représente la Plata. Exactement 4 personnages visibles.
 ```
 
 **Film technique:** 
@@ -470,12 +490,12 @@ Pull-back reveal — identifiant pull-back-reveal. Le recul se termine sur une v
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Continuer depuis la frame 11. Même réserve et même groupe. La porte est entièrement ouverte et révèle plusieurs étagères, boîtes et compartiments totalement vides. EXACTEMENT quatre enfants visibles : Dylan, Li Wei, Mathis et Zayd, chacun une seule fois, dans l'encadrement. La Plata n'est pas un objet unique ; elle est représentée par l'absence de tous les biens qui occupaient les rangements. Aucun autre humain, clone ou reflet.
+Image fixe autonome, verticale 9:16. Dans la réserve attenante au QG et même axe. La porte est maintenant largement ouverte. Les quatre amis sont visibles dans l'encadrement et regardent les étagères vides. On distingue plusieurs emplacements de rangement, boîtes et compartiments désormais vides ; aucun coffre ou objet unique ne représente la Plata. Exactement 4 personnages visibles. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -486,6 +506,8 @@ Continuer depuis la frame 11. Même réserve et même groupe. La porte est enti�
 **What this frame shows:** 
 ```text
 Image fixe verticale 9:16, plan moyen rapproché dans la réserve. Li Wei est accroupi au premier plan, près de la serrure intacte. Dylan, Mathis et Zayd sont tous les trois visibles derrière lui, à distance, sans se chevaucher. Exactement 4 personnages visibles : Li Wei, Dylan, Mathis et Zayd.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil.
 ```
 
 **Film technique:** 
@@ -502,18 +524,22 @@ Handheld documentary — identifiant handheld. Léger mouvement caméra naturel 
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Même réserve vide que les frames 11 et 12. EXACTEMENT quatre enfants visibles : Li Wei accroupi au premier plan examine une serrure intacte ; Dylan, Mathis et Zayd restent derrière lui, clairement séparés et visibles. Zayd doit correspondre à sa bible : peau brun doré, cheveux épais ondulés, surchemise bleu marine, T-shirt blanc, short beige et baskets blanches. Références pour Li, Dylan et Mathis. Aucun autre humain, clone ou reflet.
+Image fixe autonome, verticale 9:16. Image fixe verticale 9:16, plan moyen rapproché dans la réserve. Li Wei est accroupi au premier plan, près de la serrure intacte. Dylan, Mathis et Zayd sont tous les trois visibles derrière lui, à distance, sans se chevaucher. Exactement 4 personnages visibles : Li Wei, Dylan, Mathis et Zayd.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 #### Frame 14 — Fin : Li comprend (01:10)
 **What this frame shows:** 
 ```text
-Même lieu et même axe général, cadrage légèrement plus rapproché sur Li et la serrure. Li a terminé son inspection et lève les yeux vers ses amis avec une expression analytique. Dylan, Mathis et Zayd restent visibles à l'arrière-plan, sans être masqués. Exactement 4 personnages visibles.
+Dans la réserve attenante au QG, avec un axe de caméra frontal, cadrage légèrement plus rapproché sur Li et la serrure. Li a terminé son inspection et lève les yeux vers ses amis avec une expression analytique. Dylan, Mathis et Zayd restent visibles à l'arrière-plan, sans être masqués. Exactement 4 personnages visibles.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret.
 ```
 
 **Film technique:** 
@@ -530,12 +556,14 @@ Handheld documentary — identifiant handheld. Petit réajustement caméra natur
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Continuer dans la même réserve. Li Wei est toujours près de la serrure intacte, mais relève maintenant les yeux vers ses amis avec une expression réfléchie. Dylan, Mathis et Zayd restent tous visibles en arrière-plan. EXACTEMENT quatre enfants, une seule occurrence chacun. Aucun changement de tenue, coiffure ou palette.
+Image fixe autonome, verticale 9:16. Dans la réserve attenante au QG, avec un axe de caméra frontal, cadrage légèrement plus rapproché sur Li et la serrure. Li a terminé son inspection et lève les yeux vers ses amis avec une expression analytique. Dylan, Mathis et Zayd restent visibles à l'arrière-plan, sans être masqués. Exactement 4 personnages visibles.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -574,6 +602,8 @@ Un seul enfant visible : Dylan, fidèle à sa référence Flow. Dans la réserve
 **What this frame shows:** 
 ```text
 Insert vertical très rapproché. Seule la main de Dylan est visible, tenant une petite carte au centre du cadre. La carte porte une unique inscription manuscrite : « Toujours un coup d'avance. — T ». Aucun visage ni autre personnage visible. L'arrière-plan est flou et correspond à la réserve.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente.
 ```
 
 **Film technique:** 
@@ -590,12 +620,14 @@ Crash zoom — identifiant crash-zoom. La caméra termine son mouvement en arriv
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Insert macro vertical 9:16. Montrer uniquement une main d'enfant tenant une petite carte dans la réserve. Aucun visage, corps ou autre personne. La carte doit afficher exactement : « Toujours un coup d'avance. — T ». Ne pas ajouter de symbole, dessin, logo, autre mot ou signature. Caméra fixe, carte nette et centrée. Si Flow ne restitue pas le texte exactement, générer une carte vierge et ajouter le texte en postproduction.
+Image fixe autonome, verticale 9:16. Insert vertical très rapproché. Seule la main de Dylan est visible, tenant une petite carte au centre du cadre. La carte porte une unique inscription manuscrite : « Toujours un coup d'avance. — T ». Aucun visage ni autre personnage visible. L'arrière-plan est flou et correspond à la réserve.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
@@ -633,7 +665,9 @@ Retour au plan de groupe dans la même réserve. EXACTEMENT quatre enfants visib
 #### Frame 18 — Fin : Dylan prononce le nom (01:30)
 **What this frame shows:** 
 ```text
-Même groupe, cadrage plus serré. Dylan tient toujours la carte et regarde ses amis. Mathis le fixe, stupéfait. Li reste silencieux et réfléchit. Zayd paraît inquiet. Exactement 4 personnages visibles : Dylan, Li Wei, Mathis et Zayd.
+Plan rapproché du groupe dans la réserve attenante au QG. Dylan tient toujours la carte et regarde ses amis. Mathis le fixe, stupéfait. Li reste silencieux et réfléchit. Zayd paraît inquiet. Exactement 4 personnages visibles : Dylan, Li Wei, Mathis et Zayd.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil.
 ```
 
 **Film technique:** 
@@ -650,12 +684,14 @@ Crash zoom — identifiant crash-zoom. Le mouvement se termine sur Dylan et son 
 
 **Match previous frame (same character drawing, palette and style):**
 ```text
-true
+false
 ```
 
 **Prompt image:** 
 ```text
-Continuer directement depuis la frame 17. Même groupe, mêmes vêtements, même lumière et même réserve. EXACTEMENT quatre enfants visibles. Dylan tient la carte et regarde ses amis avec froideur ; Mathis est stupéfait ; Li observe en silence ; Zayd est inquiet. Aucun personnage supplémentaire. Garder les quatre visages distincts et cohérents.
+Image fixe autonome, verticale 9:16. Plan rapproché du groupe dans la réserve attenante au QG. Dylan tient toujours la carte et regarde ses amis. Mathis le fixe, stupéfait. Li reste silencieux et réfléchit. Zayd paraît inquiet. Exactement 4 personnages visibles : Dylan, Li Wei, Mathis et Zayd.
+
+Apparence des personnages visibles : Dylan, 11 ans : peau brun clair, yeux marron, visage légèrement carré aux traits juvéniles, locks courtes et soignées, lunettes à monture transparente, morphologie athlétique et vêtements simples sans marque apparente. Mathis, 12 ans : peau blanche, visage juvénile légèrement rond, yeux bleus, cheveux bruns mi-courts ébouriffés avec quelques mèches rebelles, morphologie moyenne, hoodie vert légèrement ample, short vert assorti, chaussettes et sneakers blanches, bracelet en tissu coloré. Zayd, 11 ans : peau mate dorée, yeux brun foncé, cheveux brun très foncé épais et légèrement ondulés, visage doux et juvénile aux joues légèrement rebondies, morphologie moyenne légèrement robuste, surchemise bleu marine, T-shirt blanc, short beige, baskets blanches aux détails dorés discrets, smartwatch et bracelet discret. Li Wei, 10 ans : peau très claire, silhouette mince, visage rond et enfantin, cheveux noirs courts légèrement ébouriffés, yeux verts, lunettes rondes à monture argentée, veste techwear gris clair à plusieurs poches, pantalon cargo noir, sneakers gris clair et noires, écouteurs sans fil. Respecter les références Flow et les descriptions de la bible pour chaque personnage. Reproduire exactement le nombre de personnages indiqué, chacun une seule fois. Composition complète et compréhensible sans image de référence précédente. Aucun autre personnage, adulte, figurant, silhouette, reflet humain ou clone. Aucun logo ni texte parasite.
 ```
 
 
